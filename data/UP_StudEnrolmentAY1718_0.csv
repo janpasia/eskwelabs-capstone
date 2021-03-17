@@ -1,0 +1,25 @@
+constituent_university,education_level,count
+Diliman,Basic,1415
+Diliman,Undergraduate,14134
+Diliman,Graduate,10713
+Los Baños,Basic,729
+Los Baños,Undergraduate,8385
+Los Baños,Graduate,10713
+Manila,Basic,0
+Manila,Undergraduate,3151
+Manila,Graduate,1790
+Visayas,Basic,511
+Visayas,Undergraduate,2433
+Visayas,Graduate,680
+Open University,Basic,0
+Open University,Undergraduate,780
+Open University,Graduate,2905
+Mindanao,Basic,0
+Mindanao,Undergraduate,741
+Mindanao,Graduate,150
+Baguio,Basic,0
+Baguio,Undergraduate,1203
+Baguio,Graduate,1448
+Cebu,Basic,241
+Cebu,Undergraduate,877
+Cebu,Graduate,310

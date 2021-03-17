@@ -1,0 +1,49 @@
+constituent_university,education_level,type,count
+Diliman,Undergraduate,Pre-Bachelor's,6
+Diliman,Undergraduate,Baccalaureate,71
+Diliman,Graduate,Post-Bachelor's,14
+Diliman,Graduate,Medicine and Law,1
+Diliman,Graduate,Master's,95
+Diliman,Graduate,Doctoral,49
+Los Baños,Undergraduate,Pre-Bachelor's,1
+Los Baños,Undergraduate,Baccalaureate,29
+Los Baños,Graduate,Post-Bachelor's,0
+Los Baños,Graduate,Medicine and Law,0
+Los Baños,Graduate,Master's,57
+Los Baños,Graduate,Doctoral,31
+Manila,Undergraduate,Pre-Bachelor's,2
+Manila,Undergraduate,Baccalaureate,20
+Manila,Graduate,Post-Bachelor's,6
+Manila,Graduate,Medicine and Law,2
+Manila,Graduate,Master's,25
+Manila,Graduate,Doctoral,5
+Visayas,Undergraduate,Pre-Bachelor's,0
+Visayas,Undergraduate,Baccalaureate,27
+Visayas,Graduate,Post-Bachelor's,1
+Visayas,Graduate,Medicine and Law,0
+Visayas,Graduate,Master's,9
+Visayas,Graduate,Doctoral,1
+Open University,Undergraduate,Pre-Bachelor's,1
+Open University,Undergraduate,Baccalaureate,2
+Open University,Graduate,Post-Bachelor's,15
+Open University,Graduate,Medicine and Law,0
+Open University,Graduate,Master's,11
+Open University,Graduate,Doctoral,2
+Mindanao,Undergraduate,Pre-Bachelor's,0
+Mindanao,Undergraduate,Baccalaureate,9
+Mindanao,Graduate,Post-Bachelor's,2
+Mindanao,Graduate,Medicine and Law,0
+Mindanao,Graduate,Master's,1
+Mindanao,Graduate,Doctoral,0
+Baguio,Undergraduate,Pre-Bachelor's,1
+Baguio,Undergraduate,Baccalaureate,9
+Baguio,Graduate,Post-Bachelor's,0
+Baguio,Graduate,Medicine and Law,0
+Baguio,Graduate,Master's,5
+Baguio,Graduate,Doctoral,2
+Cebu,Undergraduate,Pre-Bachelor's,1
+Cebu,Undergraduate,Baccalaureate,8
+Cebu,Graduate,Post-Bachelor's,0
+Cebu,Graduate,Medicine and Law,0
+Cebu,Graduate,Master's,4
+Cebu,Graduate,Doctoral,0

@@ -1,0 +1,113 @@
+constituent_university,education_level,discipline,count
+Diliman,Undergraduate,Science and Engineering,25
+Diliman,Graduate,Science and Engineering,62
+Diliman,Undergraduate,Agriculture and Fisheries,0
+Diliman,Graduate,Agriculture and Fisheries,0
+Diliman,Undergraduate,Social Sciences,18
+Diliman,Graduate,Social Sciences,36
+Diliman,Undergraduate,Management,6
+Diliman,Graduate,Management,23
+Diliman,Undergraduate,Education,3
+Diliman,Graduate,Education,4
+Diliman,Undergraduate,Law,0
+Diliman,Graduate,Law,1
+Diliman,Undergraduate,Arts and Letters,25
+Diliman,Graduate,Arts and Letters,33
+Los Baños,Undergraduate,Science and Engineering,19
+Los Baños,Graduate,Science and Engineering,33
+Los Baños,Undergraduate,Agriculture and Fisheries,3
+Los Baños,Graduate,Agriculture and Fisheries,25
+Los Baños,Undergraduate,Social Sciences,4
+Los Baños,Graduate,Social Sciences,7
+Los Baños,Undergraduate,Management,1
+Los Baños,Graduate,Management,18
+Los Baños,Undergraduate,Education,0
+Los Baños,Graduate,Education,3
+Los Baños,Undergraduate,Law,0
+Los Baños,Graduate,Law,0
+Los Baños,Undergraduate,Arts and Letters,3
+Los Baños,Graduate,Arts and Letters,2
+Manila,Undergraduate,Science and Engineering,14
+Manila,Graduate,Science and Engineering,27
+Manila,Undergraduate,Agriculture and Fisheries,0
+Manila,Graduate,Agriculture and Fisheries,0
+Manila,Undergraduate,Social Sciences,5
+Manila,Graduate,Social Sciences,6
+Manila,Undergraduate,Management,0
+Manila,Graduate,Management,3
+Manila,Undergraduate,Education,1
+Manila,Graduate,Education,2
+Manila,Undergraduate,Law,0
+Manila,Graduate,Law,0
+Manila,Undergraduate,Arts and Letters,2
+Manila,Graduate,Arts and Letters,0
+Visayas,Undergraduate,Science and Engineering,9
+Visayas,Graduate,Science and Engineering,3
+Visayas,Undergraduate,Agriculture and Fisheries,1
+Visayas,Graduate,Agriculture and Fisheries,3
+Visayas,Undergraduate,Social Sciences,9
+Visayas,Graduate,Social Sciences,0
+Visayas,Undergraduate,Management,5
+Visayas,Graduate,Management,4
+Visayas,Undergraduate,Education,0
+Visayas,Graduate,Education,1
+Visayas,Undergraduate,Law,0
+Visayas,Graduate,Law,0
+Visayas,Undergraduate,Arts and Letters,3
+Visayas,Graduate,Arts and Letters,0
+Open University,Undergraduate,Science and Engineering,0
+Open University,Graduate,Science and Engineering,5
+Open University,Undergraduate,Agriculture and Fisheries,0
+Open University,Graduate,Agriculture and Fisheries,0
+Open University,Undergraduate,Social Sciences,0
+Open University,Graduate,Social Sciences,3
+Open University,Undergraduate,Management,0
+Open University,Graduate,Management,9
+Open University,Undergraduate,Education,1
+Open University,Graduate,Education,9
+Open University,Undergraduate,Law,0
+Open University,Graduate,Law,0
+Open University,Undergraduate,Arts and Letters,2
+Open University,Graduate,Arts and Letters,2
+Mindanao,Undergraduate,Science and Engineering,4
+Mindanao,Graduate,Science and Engineering,1
+Mindanao,Undergraduate,Agriculture and Fisheries,0
+Mindanao,Graduate,Agriculture and Fisheries,0
+Mindanao,Undergraduate,Social Sciences,2
+Mindanao,Graduate,Social Sciences,0
+Mindanao,Undergraduate,Management,0
+Mindanao,Graduate,Management,2
+Mindanao,Undergraduate,Education,0
+Mindanao,Graduate,Education,0
+Mindanao,Undergraduate,Law,0
+Mindanao,Graduate,Law,0
+Mindanao,Undergraduate,Arts and Letters,3
+Mindanao,Graduate,Arts and Letters,0
+Baguio,Undergraduate,Science and Engineering,4
+Baguio,Graduate,Science and Engineering,3
+Baguio,Undergraduate,Agriculture and Fisheries,0
+Baguio,Graduate,Agriculture and Fisheries,0
+Baguio,Undergraduate,Social Sciences,2
+Baguio,Graduate,Social Sciences,1
+Baguio,Undergraduate,Management,0
+Baguio,Graduate,Management,2
+Baguio,Undergraduate,Education,0
+Baguio,Graduate,Education,0
+Baguio,Undergraduate,Law,0
+Baguio,Graduate,Law,0
+Baguio,Undergraduate,Arts and Letters,4
+Baguio,Graduate,Arts and Letters,1
+Cebu,Undergraduate,Science and Engineering,3
+Cebu,Graduate,Science and Engineering,2
+Cebu,Undergraduate,Agriculture and Fisheries,0
+Cebu,Graduate,Agriculture and Fisheries,0
+Cebu,Undergraduate,Social Sciences,2
+Cebu,Graduate,Social Sciences,0
+Cebu,Undergraduate,Management,1
+Cebu,Graduate,Management,1
+Cebu,Undergraduate,Education,0
+Cebu,Graduate,Education,1
+Cebu,Undergraduate,Law,0
+Cebu,Graduate,Law,0
+Cebu,Undergraduate,Arts and Letters,3
+Cebu,Graduate,Arts and Letters,0

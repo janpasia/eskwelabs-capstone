@@ -1,0 +1,844 @@
+Province,Livestock_Raised,profession,gender,count_registered_farmers
+ABRA,Buffaloes (Carabaos),Farmer only,Male,"3,012"
+ABRA,Cattle,Farmer only,Male,"2,711"
+ABRA,Deer elk reindeer,Farmer only,Male,0
+ABRA,Goats,Farmer only,Male,"1,832"
+ABRA,Horses,Farmer only,Male,117
+ABRA,Pigs or swine,Farmer only,Male,"2,856"
+ABRA,Rabbits and hares,Farmer only,Male,1
+ABRA,Sheep,Farmer only,Male,1
+AGUSAN DEL SUR,Buffaloes (Carabaos),Farmer only,Male,"2,338"
+AGUSAN DEL SUR,Cattle,Farmer only,Male,673
+AGUSAN DEL SUR,Dogs and cats,Farmer only,Male,1
+AGUSAN DEL SUR,Goats,Farmer only,Male,"1,449"
+AGUSAN DEL SUR,Horses,Farmer only,Male,93
+AGUSAN DEL SUR,Mules and hinnies,Farmer only,Male,0
+AGUSAN DEL SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Male,0
+AGUSAN DEL SUR,Pigs or swine,Farmer only,Male,"10,553"
+AGUSAN DEL SUR,Rabbits and hares,Farmer only,Male,20
+AGUSAN DEL SUR,Sheep,Farmer only,Male,7
+AGUSAN DEL SUR,Silkworms,Farmer only,Male,2
+CAMARINES SUR,Buffaloes (Carabaos),Farmer only,Male,"9,297"
+CAMARINES SUR,Cattle,Farmer only,Male,"5,436"
+CAMARINES SUR,Deer elk reindeer,Farmer only,Male,4
+CAMARINES SUR,Goats,Farmer only,Male,"2,681"
+CAMARINES SUR,Horses,Farmer only,Male,174
+CAMARINES SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Male,8
+CAMARINES SUR,Pigs or swine,Farmer only,Male,"14,636"
+CAMARINES SUR,Rabbits and hares,Farmer only,Male,7
+CAMARINES SUR,Sheep,Farmer only,Male,15
+DAVAO ORIENTAL,Buffaloes (Carabaos),Farmer only,Male,"1,607"
+DAVAO ORIENTAL,Cattle,Farmer only,Male,"1,025"
+DAVAO ORIENTAL,Dogs and cats,Farmer only,Male,1
+DAVAO ORIENTAL,Goats,Farmer only,Male,"2,270"
+DAVAO ORIENTAL,Horses,Farmer only,Male,471
+DAVAO ORIENTAL,Pigs or swine,Farmer only,Male,"5,030"
+DAVAO ORIENTAL,Rabbits and hares,Farmer only,Male,3
+DAVAO ORIENTAL,Sheep,Farmer only,Male,24
+EASTERN SAMAR,Bees,Farmer only,Male,1
+EASTERN SAMAR,Buffaloes (Carabaos),Farmer only,Male,"1,211"
+EASTERN SAMAR,Cattle,Farmer only,Male,234
+EASTERN SAMAR,Goats,Farmer only,Male,78
+EASTERN SAMAR,Horses,Farmer only,Male,1
+EASTERN SAMAR,Other animals (e.g. ostriches emus elephants),Farmer only,Male,4
+EASTERN SAMAR,Pigs or swine,Farmer only,Male,"2,115"
+EASTERN SAMAR,Rabbits and hares,Farmer only,Male,1
+EASTERN SAMAR,Sheep,Farmer only,Male,0
+IFUGAO,Bees,Farmer only,Male,0
+IFUGAO,Buffaloes (Carabaos),Farmer only,Male,"1,208"
+IFUGAO,Cattle,Farmer only,Male,525
+IFUGAO,Deer elk reindeer,Farmer only,Male,2
+IFUGAO,Goats,Farmer only,Male,373
+IFUGAO,Horses,Farmer only,Male,7
+IFUGAO,Pigs or swine,Farmer only,Male,"3,723"
+IFUGAO,Rabbits and hares,Farmer only,Male,27
+IFUGAO,Sheep,Farmer only,Male,4
+KALINGA,Bees,Farmer only,Male,0
+KALINGA,Buffaloes (Carabaos),Farmer only,Male,"1,568"
+KALINGA,Cattle,Farmer only,Male,369
+KALINGA,Deer elk reindeer,Farmer only,Male,2
+KALINGA,Goats,Farmer only,Male,260
+KALINGA,Horses,Farmer only,Male,126
+KALINGA,Pigs or swine,Farmer only,Male,"5,283"
+KALINGA,Rabbits and hares,Farmer only,Male,1
+KALINGA,Sheep,Farmer only,Male,2
+MASBATE,Buffaloes (Carabaos),Farmer only,Male,"10,359"
+MASBATE,Cattle,Farmer only,Male,"4,019"
+MASBATE,Goats,Farmer only,Male,"3,608"
+MASBATE,Horses,Farmer only,Male,"1,953"
+MASBATE,Pigs or swine,Farmer only,Male,"13,067"
+MASBATE,Rabbits and hares,Farmer only,Male,3
+MASBATE,Sheep,Farmer only,Male,0
+MOUNTAIN PROVINCE,Bees,Farmer only,Male,0
+MOUNTAIN PROVINCE,Buffaloes (Carabaos),Farmer only,Male,427
+MOUNTAIN PROVINCE,Cattle,Farmer only,Male,231
+MOUNTAIN PROVINCE,Deer elk reindeer,Farmer only,Male,1
+MOUNTAIN PROVINCE,Goats,Farmer only,Male,43
+MOUNTAIN PROVINCE,Horses,Farmer only,Male,14
+MOUNTAIN PROVINCE,Pigs or swine,Farmer only,Male,"2,955"
+MOUNTAIN PROVINCE,Rabbits and hares,Farmer only,Male,6
+MOUNTAIN PROVINCE,Sheep,Farmer only,Male,0
+MOUNTAIN PROVINCE,Silkworms,Farmer only,Male,1
+COTABATO (NORTH COTABATO),Asses,Farmer only,Male,23
+COTABATO (NORTH COTABATO),Bees,Farmer only,Male,3
+COTABATO (NORTH COTABATO),Buffaloes (Carabaos),Farmer only,Male,"9,883"
+COTABATO (NORTH COTABATO),Camels/Llamas and alpacas,Farmer only,Male,27
+COTABATO (NORTH COTABATO),Cattle,Farmer only,Male,"10,034"
+COTABATO (NORTH COTABATO),Deer elk reindeer,Farmer only,Male,8
+COTABATO (NORTH COTABATO),Dogs and cats,Farmer only,Male,0
+COTABATO (NORTH COTABATO),Fur-bearing animals such as foxes and minks,Farmer only,Male,31
+COTABATO (NORTH COTABATO),Goats,Farmer only,Male,"8,696"
+COTABATO (NORTH COTABATO),Horses,Farmer only,Male,"2,025"
+COTABATO (NORTH COTABATO),Mules and hinnies,Farmer only,Male,1
+COTABATO (NORTH COTABATO),Other animals (e.g. ostriches emus elephants),Farmer only,Male,0
+COTABATO (NORTH COTABATO),Other equines (e.g. zebras),Farmer only,Male,8
+COTABATO (NORTH COTABATO),Other worms or insects,Farmer only,Male,3
+COTABATO (NORTH COTABATO),Pigs or swine,Farmer only,Male,"13,499"
+COTABATO (NORTH COTABATO),Rabbits and hares,Farmer only,Male,13
+COTABATO (NORTH COTABATO),Sheep,Farmer only,Male,19
+COTABATO (NORTH COTABATO),Silkworms,Farmer only,Male,0
+COTABATO (NORTH COTABATO),Yaks,Farmer only,Male,6
+NORTHERN SAMAR,Buffaloes (Carabaos),Farmer only,Male,"2,303"
+NORTHERN SAMAR,Cattle,Farmer only,Male,296
+NORTHERN SAMAR,Dogs and cats,Farmer only,Male,0
+NORTHERN SAMAR,Goats,Farmer only,Male,114
+NORTHERN SAMAR,Horses,Farmer only,Male,30
+NORTHERN SAMAR,Pigs or swine,Farmer only,Male,"5,365"
+NORTHERN SAMAR,Sheep,Farmer only,Male,0
+ROMBLON,Asses,Farmer only,Male,1
+ROMBLON,Bees,Farmer only,Male,0
+ROMBLON,Buffaloes (Carabaos),Farmer only,Male,641
+ROMBLON,Camels/Llamas and alpacas,Farmer only,Male,1
+ROMBLON,Cattle,Farmer only,Male,"1,907"
+ROMBLON,Goats,Farmer only,Male,"1,403"
+ROMBLON,Horses,Farmer only,Male,13
+ROMBLON,Other equines (e.g. zebras),Farmer only,Male,1
+ROMBLON,Pigs or swine,Farmer only,Male,"3,361"
+ROMBLON,Rabbits and hares,Farmer only,Male,0
+ROMBLON,Sheep,Farmer only,Male,0
+ROMBLON,Yaks,Farmer only,Male,0
+SAMAR (WESTERN SAMAR),Buffaloes (Carabaos),Farmer only,Male,"2,105"
+SAMAR (WESTERN SAMAR),Cattle,Farmer only,Male,52
+SAMAR (WESTERN SAMAR),Deer elk reindeer,Farmer only,Male,1
+SAMAR (WESTERN SAMAR),Fur-bearing animals such as foxes and minks,Farmer only,Male,1
+SAMAR (WESTERN SAMAR),Goats,Farmer only,Male,94
+SAMAR (WESTERN SAMAR),Horses,Farmer only,Male,1
+SAMAR (WESTERN SAMAR),Pigs or swine,Farmer only,Male,"3,586"
+SAMAR (WESTERN SAMAR),Rabbits and hares,Farmer only,Male,2
+SAMAR (WESTERN SAMAR),Sheep,Farmer only,Male,1
+SIQUIJOR,Buffaloes (Carabaos),Farmer only,Male,129
+SIQUIJOR,Cattle,Farmer only,Male,"2,522"
+SIQUIJOR,Goats,Farmer only,Male,"1,415"
+SIQUIJOR,Horses,Farmer only,Male,5
+SIQUIJOR,Pigs or swine,Farmer only,Male,"2,378"
+SIQUIJOR,Rabbits and hares,Farmer only,Male,1
+SIQUIJOR,Sheep,Farmer only,Male,0
+SULTAN KUDARAT,Asses,Farmer only,Male,3
+SULTAN KUDARAT,Bees,Farmer only,Male,0
+SULTAN KUDARAT,Buffaloes (Carabaos),Farmer only,Male,"2,552"
+SULTAN KUDARAT,Camels/Llamas and alpacas,Farmer only,Male,2
+SULTAN KUDARAT,Cattle,Farmer only,Male,"2,048"
+SULTAN KUDARAT,Deer elk reindeer,Farmer only,Male,4
+SULTAN KUDARAT,Fur-bearing animals such as foxes and minks,Farmer only,Male,3
+SULTAN KUDARAT,Goats,Farmer only,Male,"2,295"
+SULTAN KUDARAT,Horses,Farmer only,Male,"1,269"
+SULTAN KUDARAT,Mules and hinnies,Farmer only,Male,2
+SULTAN KUDARAT,Other animals (e.g. ostriches emus elephants),Farmer only,Male,1
+SULTAN KUDARAT,Other equines (e.g. zebras),Farmer only,Male,5
+SULTAN KUDARAT,Pigs or swine,Farmer only,Male,"4,875"
+SULTAN KUDARAT,Rabbits and hares,Farmer only,Male,8
+SULTAN KUDARAT,Sheep,Farmer only,Male,13
+SULTAN KUDARAT,Yaks,Farmer only,Male,0
+SURIGAO DEL NORTE,Buffaloes (Carabaos),Farmer only,Male,"2,045"
+SURIGAO DEL NORTE,Cattle,Farmer only,Male,219
+SURIGAO DEL NORTE,Goats,Farmer only,Male,341
+SURIGAO DEL NORTE,Horses,Farmer only,Male,34
+SURIGAO DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmer only,Male,60
+SURIGAO DEL NORTE,Pigs or swine,Farmer only,Male,"4,220"
+SURIGAO DEL NORTE,Rabbits and hares,Farmer only,Male,5
+SURIGAO DEL NORTE,Sheep,Farmer only,Male,2
+SURIGAO DEL NORTE,Silkworms,Farmer only,Male,0
+SURIGAO DEL SUR,Buffaloes (Carabaos),Farmer only,Male,"3,198"
+SURIGAO DEL SUR,Cattle,Farmer only,Male,342
+SURIGAO DEL SUR,Goats,Farmer only,Male,937
+SURIGAO DEL SUR,Horses,Farmer only,Male,27
+SURIGAO DEL SUR,Mules and hinnies,Farmer only,Male,1
+SURIGAO DEL SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Male,2
+SURIGAO DEL SUR,Pigs or swine,Farmer only,Male,"7,480"
+SURIGAO DEL SUR,Rabbits and hares,Farmer only,Male,3
+SURIGAO DEL SUR,Sheep,Farmer only,Male,1
+ZAMBOANGA DEL NORTE,Asses,Farmer only,Male,5
+ZAMBOANGA DEL NORTE,Bees,Farmer only,Male,0
+ZAMBOANGA DEL NORTE,Buffaloes (Carabaos),Farmer only,Male,"11,578"
+ZAMBOANGA DEL NORTE,Camels/Llamas and alpacas,Farmer only,Male,9
+ZAMBOANGA DEL NORTE,Cattle,Farmer only,Male,"7,101"
+ZAMBOANGA DEL NORTE,Deer elk reindeer,Farmer only,Male,5
+ZAMBOANGA DEL NORTE,Fur-bearing animals such as foxes and minks,Farmer only,Male,7
+ZAMBOANGA DEL NORTE,Goats,Farmer only,Male,"4,317"
+ZAMBOANGA DEL NORTE,Horses,Farmer only,Male,"1,445"
+ZAMBOANGA DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmer only,Male,3
+ZAMBOANGA DEL NORTE,Other equines (e.g. zebras),Farmer only,Male,5
+ZAMBOANGA DEL NORTE,Pigs or swine,Farmer only,Male,"19,590"
+ZAMBOANGA DEL NORTE,Rabbits and hares,Farmer only,Male,3
+ZAMBOANGA DEL NORTE,Sheep,Farmer only,Male,8
+ZAMBOANGA DEL NORTE,Silkworms,Farmer only,Male,0
+ZAMBOANGA DEL NORTE,Yaks,Farmer only,Male,0
+SARANGANI,Asses,Farmer only,Male,7
+SARANGANI,Bees,Farmer only,Male,5
+SARANGANI,Buffaloes (Carabaos),Farmer only,Male,"2,216"
+SARANGANI,Camels/Llamas and alpacas,Farmer only,Male,8
+SARANGANI,Cattle,Farmer only,Male,"2,533"
+SARANGANI,Deer elk reindeer,Farmer only,Male,6
+SARANGANI,Fur-bearing animals such as foxes and minks,Farmer only,Male,3
+SARANGANI,Goats,Farmer only,Male,"2,674"
+SARANGANI,Horses,Farmer only,Male,"1,929"
+SARANGANI,Mules and hinnies,Farmer only,Male,5
+SARANGANI,Other animals (e.g. ostriches emus elephants),Farmer only,Male,1
+SARANGANI,Other equines (e.g. zebras),Farmer only,Male,8
+SARANGANI,Other worms or insects,Farmer only,Male,1
+SARANGANI,Pigs or swine,Farmer only,Male,"7,557"
+SARANGANI,Rabbits and hares,Farmer only,Male,6
+SARANGANI,Sheep,Farmer only,Male,15
+SARANGANI,Silkworms,Farmer only,Male,1
+SARANGANI,Yaks,Farmer only,Male,2
+APAYAO,Buffaloes (Carabaos),Farmer only,Male,777
+APAYAO,Cattle,Farmer only,Male,123
+APAYAO,Deer elk reindeer,Farmer only,Male,5
+APAYAO,Goats,Farmer only,Male,125
+APAYAO,Horses,Farmer only,Male,1
+APAYAO,Other animals (e.g. ostriches emus elephants),Farmer only,Male,0
+APAYAO,Pigs or swine,Farmer only,Male,"1,842"
+APAYAO,Rabbits and hares,Farmer only,Male,0
+ABRA,Buffaloes (Carabaos),Farmer only,Female,233
+ABRA,Cattle,Farmer only,Female,239
+ABRA,Deer elk reindeer,Farmer only,Female,1
+ABRA,Goats,Farmer only,Female,208
+ABRA,Horses,Farmer only,Female,5
+ABRA,Pigs or swine,Farmer only,Female,962
+ABRA,Rabbits and hares,Farmer only,Female,1
+ABRA,Sheep,Farmer only,Female,0
+AGUSAN DEL SUR,Buffaloes (Carabaos),Farmer only,Female,197
+AGUSAN DEL SUR,Cattle,Farmer only,Female,51
+AGUSAN DEL SUR,Dogs and cats,Farmer only,Female,0
+AGUSAN DEL SUR,Goats,Farmer only,Female,191
+AGUSAN DEL SUR,Horses,Farmer only,Female,11
+AGUSAN DEL SUR,Mules and hinnies,Farmer only,Female,0
+AGUSAN DEL SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Female,1
+AGUSAN DEL SUR,Pigs or swine,Farmer only,Female,"1,653"
+AGUSAN DEL SUR,Rabbits and hares,Farmer only,Female,4
+AGUSAN DEL SUR,Sheep,Farmer only,Female,0
+AGUSAN DEL SUR,Silkworms,Farmer only,Female,0
+CAMARINES SUR,Buffaloes (Carabaos),Farmer only,Female,933
+CAMARINES SUR,Cattle,Farmer only,Female,671
+CAMARINES SUR,Deer elk reindeer,Farmer only,Female,0
+CAMARINES SUR,Goats,Farmer only,Female,437
+CAMARINES SUR,Horses,Farmer only,Female,16
+CAMARINES SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Female,1
+CAMARINES SUR,Pigs or swine,Farmer only,Female,"4,188"
+CAMARINES SUR,Rabbits and hares,Farmer only,Female,1
+CAMARINES SUR,Sheep,Farmer only,Female,2
+DAVAO ORIENTAL,Buffaloes (Carabaos),Farmer only,Female,166
+DAVAO ORIENTAL,Cattle,Farmer only,Female,178
+DAVAO ORIENTAL,Dogs and cats,Farmer only,Female,0
+DAVAO ORIENTAL,Goats,Farmer only,Female,383
+DAVAO ORIENTAL,Horses,Farmer only,Female,34
+DAVAO ORIENTAL,Pigs or swine,Farmer only,Female,774
+DAVAO ORIENTAL,Rabbits and hares,Farmer only,Female,2
+DAVAO ORIENTAL,Sheep,Farmer only,Female,5
+EASTERN SAMAR,Bees,Farmer only,Female,0
+EASTERN SAMAR,Buffaloes (Carabaos),Farmer only,Female,65
+EASTERN SAMAR,Cattle,Farmer only,Female,66
+EASTERN SAMAR,Goats,Farmer only,Female,18
+EASTERN SAMAR,Horses,Farmer only,Female,1
+EASTERN SAMAR,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+EASTERN SAMAR,Pigs or swine,Farmer only,Female,503
+EASTERN SAMAR,Rabbits and hares,Farmer only,Female,0
+EASTERN SAMAR,Sheep,Farmer only,Female,0
+IFUGAO,Bees,Farmer only,Female,0
+IFUGAO,Buffaloes (Carabaos),Farmer only,Female,266
+IFUGAO,Cattle,Farmer only,Female,122
+IFUGAO,Deer elk reindeer,Farmer only,Female,1
+IFUGAO,Goats,Farmer only,Female,133
+IFUGAO,Horses,Farmer only,Female,3
+IFUGAO,Pigs or swine,Farmer only,Female,"2,033"
+IFUGAO,Rabbits and hares,Farmer only,Female,26
+IFUGAO,Sheep,Farmer only,Female,0
+KALINGA,Bees,Farmer only,Female,0
+KALINGA,Buffaloes (Carabaos),Farmer only,Female,165
+KALINGA,Cattle,Farmer only,Female,63
+KALINGA,Deer elk reindeer,Farmer only,Female,0
+KALINGA,Goats,Farmer only,Female,35
+KALINGA,Horses,Farmer only,Female,9
+KALINGA,Pigs or swine,Farmer only,Female,"1,481"
+KALINGA,Rabbits and hares,Farmer only,Female,2
+KALINGA,Sheep,Farmer only,Female,0
+MASBATE,Buffaloes (Carabaos),Farmer only,Female,"1,004"
+MASBATE,Cattle,Farmer only,Female,499
+MASBATE,Goats,Farmer only,Female,617
+MASBATE,Horses,Farmer only,Female,200
+MASBATE,Pigs or swine,Farmer only,Female,"3,455"
+MASBATE,Rabbits and hares,Farmer only,Female,1
+MASBATE,Sheep,Farmer only,Female,0
+MOUNTAIN PROVINCE,Bees,Farmer only,Female,1
+MOUNTAIN PROVINCE,Buffaloes (Carabaos),Farmer only,Female,82
+MOUNTAIN PROVINCE,Cattle,Farmer only,Female,40
+MOUNTAIN PROVINCE,Deer elk reindeer,Farmer only,Female,0
+MOUNTAIN PROVINCE,Goats,Farmer only,Female,7
+MOUNTAIN PROVINCE,Horses,Farmer only,Female,0
+MOUNTAIN PROVINCE,Pigs or swine,Farmer only,Female,"1,975"
+MOUNTAIN PROVINCE,Rabbits and hares,Farmer only,Female,4
+MOUNTAIN PROVINCE,Sheep,Farmer only,Female,0
+MOUNTAIN PROVINCE,Silkworms,Farmer only,Female,0
+COTABATO (NORTH COTABATO),Asses,Farmer only,Female,3
+COTABATO (NORTH COTABATO),Bees,Farmer only,Female,1
+COTABATO (NORTH COTABATO),Buffaloes (Carabaos),Farmer only,Female,"1,006"
+COTABATO (NORTH COTABATO),Camels/Llamas and alpacas,Farmer only,Female,7
+COTABATO (NORTH COTABATO),Cattle,Farmer only,Female,"1,595"
+COTABATO (NORTH COTABATO),Deer elk reindeer,Farmer only,Female,2
+COTABATO (NORTH COTABATO),Dogs and cats,Farmer only,Female,0
+COTABATO (NORTH COTABATO),Fur-bearing animals such as foxes and minks,Farmer only,Female,9
+COTABATO (NORTH COTABATO),Goats,Farmer only,Female,"1,652"
+COTABATO (NORTH COTABATO),Horses,Farmer only,Female,112
+COTABATO (NORTH COTABATO),Mules and hinnies,Farmer only,Female,0
+COTABATO (NORTH COTABATO),Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+COTABATO (NORTH COTABATO),Other equines (e.g. zebras),Farmer only,Female,4
+COTABATO (NORTH COTABATO),Other worms or insects,Farmer only,Female,1
+COTABATO (NORTH COTABATO),Pigs or swine,Farmer only,Female,"4,074"
+COTABATO (NORTH COTABATO),Rabbits and hares,Farmer only,Female,4
+COTABATO (NORTH COTABATO),Sheep,Farmer only,Female,2
+COTABATO (NORTH COTABATO),Silkworms,Farmer only,Female,1
+COTABATO (NORTH COTABATO),Yaks,Farmer only,Female,4
+NORTHERN SAMAR,Buffaloes (Carabaos),Farmer only,Female,126
+NORTHERN SAMAR,Cattle,Farmer only,Female,30
+NORTHERN SAMAR,Dogs and cats,Farmer only,Female,0
+NORTHERN SAMAR,Goats,Farmer only,Female,13
+NORTHERN SAMAR,Horses,Farmer only,Female,1
+NORTHERN SAMAR,Pigs or swine,Farmer only,Female,816
+NORTHERN SAMAR,Sheep,Farmer only,Female,0
+ROMBLON,Asses,Farmer only,Female,1
+ROMBLON,Bees,Farmer only,Female,0
+ROMBLON,Buffaloes (Carabaos),Farmer only,Female,101
+ROMBLON,Camels/Llamas and alpacas,Farmer only,Female,1
+ROMBLON,Cattle,Farmer only,Female,492
+ROMBLON,Goats,Farmer only,Female,612
+ROMBLON,Horses,Farmer only,Female,1
+ROMBLON,Other equines (e.g. zebras),Farmer only,Female,1
+ROMBLON,Pigs or swine,Farmer only,Female,"1,533"
+ROMBLON,Rabbits and hares,Farmer only,Female,1
+ROMBLON,Sheep,Farmer only,Female,1
+ROMBLON,Yaks,Farmer only,Female,0
+SAMAR (WESTERN SAMAR),Buffaloes (Carabaos),Farmer only,Female,130
+SAMAR (WESTERN SAMAR),Cattle,Farmer only,Female,7
+SAMAR (WESTERN SAMAR),Deer elk reindeer,Farmer only,Female,0
+SAMAR (WESTERN SAMAR),Fur-bearing animals such as foxes and minks,Farmer only,Female,0
+SAMAR (WESTERN SAMAR),Goats,Farmer only,Female,37
+SAMAR (WESTERN SAMAR),Horses,Farmer only,Female,0
+SAMAR (WESTERN SAMAR),Pigs or swine,Farmer only,Female,598
+SAMAR (WESTERN SAMAR),Rabbits and hares,Farmer only,Female,0
+SAMAR (WESTERN SAMAR),Sheep,Farmer only,Female,0
+SIQUIJOR,Buffaloes (Carabaos),Farmer only,Female,29
+SIQUIJOR,Cattle,Farmer only,Female,"1,228"
+SIQUIJOR,Goats,Farmer only,Female,966
+SIQUIJOR,Horses,Farmer only,Female,2
+SIQUIJOR,Pigs or swine,Farmer only,Female,"1,591"
+SIQUIJOR,Rabbits and hares,Farmer only,Female,1
+SIQUIJOR,Sheep,Farmer only,Female,1
+SULTAN KUDARAT,Asses,Farmer only,Female,0
+SULTAN KUDARAT,Bees,Farmer only,Female,0
+SULTAN KUDARAT,Buffaloes (Carabaos),Farmer only,Female,160
+SULTAN KUDARAT,Camels/Llamas and alpacas,Farmer only,Female,0
+SULTAN KUDARAT,Cattle,Farmer only,Female,202
+SULTAN KUDARAT,Deer elk reindeer,Farmer only,Female,1
+SULTAN KUDARAT,Fur-bearing animals such as foxes and minks,Farmer only,Female,0
+SULTAN KUDARAT,Goats,Farmer only,Female,320
+SULTAN KUDARAT,Horses,Farmer only,Female,45
+SULTAN KUDARAT,Mules and hinnies,Farmer only,Female,0
+SULTAN KUDARAT,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+SULTAN KUDARAT,Other equines (e.g. zebras),Farmer only,Female,1
+SULTAN KUDARAT,Pigs or swine,Farmer only,Female,749
+SULTAN KUDARAT,Rabbits and hares,Farmer only,Female,0
+SULTAN KUDARAT,Sheep,Farmer only,Female,2
+SULTAN KUDARAT,Yaks,Farmer only,Female,0
+SURIGAO DEL NORTE,Buffaloes (Carabaos),Farmer only,Female,327
+SURIGAO DEL NORTE,Cattle,Farmer only,Female,36
+SURIGAO DEL NORTE,Goats,Farmer only,Female,83
+SURIGAO DEL NORTE,Horses,Farmer only,Female,3
+SURIGAO DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmer only,Female,14
+SURIGAO DEL NORTE,Pigs or swine,Farmer only,Female,"1,243"
+SURIGAO DEL NORTE,Rabbits and hares,Farmer only,Female,1
+SURIGAO DEL NORTE,Sheep,Farmer only,Female,0
+SURIGAO DEL NORTE,Silkworms,Farmer only,Female,0
+SURIGAO DEL SUR,Buffaloes (Carabaos),Farmer only,Female,303
+SURIGAO DEL SUR,Cattle,Farmer only,Female,46
+SURIGAO DEL SUR,Goats,Farmer only,Female,156
+SURIGAO DEL SUR,Horses,Farmer only,Female,1
+SURIGAO DEL SUR,Mules and hinnies,Farmer only,Female,0
+SURIGAO DEL SUR,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+SURIGAO DEL SUR,Pigs or swine,Farmer only,Female,"1,465"
+SURIGAO DEL SUR,Rabbits and hares,Farmer only,Female,2
+SURIGAO DEL SUR,Sheep,Farmer only,Female,0
+ZAMBOANGA DEL NORTE,Asses,Farmer only,Female,5
+ZAMBOANGA DEL NORTE,Bees,Farmer only,Female,0
+ZAMBOANGA DEL NORTE,Buffaloes (Carabaos),Farmer only,Female,"2,852"
+ZAMBOANGA DEL NORTE,Camels/Llamas and alpacas,Farmer only,Female,3
+ZAMBOANGA DEL NORTE,Cattle,Farmer only,Female,"2,170"
+ZAMBOANGA DEL NORTE,Deer elk reindeer,Farmer only,Female,2
+ZAMBOANGA DEL NORTE,Fur-bearing animals such as foxes and minks,Farmer only,Female,0
+ZAMBOANGA DEL NORTE,Goats,Farmer only,Female,"1,488"
+ZAMBOANGA DEL NORTE,Horses,Farmer only,Female,391
+ZAMBOANGA DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+ZAMBOANGA DEL NORTE,Other equines (e.g. zebras),Farmer only,Female,1
+ZAMBOANGA DEL NORTE,Pigs or swine,Farmer only,Female,"7,678"
+ZAMBOANGA DEL NORTE,Rabbits and hares,Farmer only,Female,2
+ZAMBOANGA DEL NORTE,Sheep,Farmer only,Female,2
+ZAMBOANGA DEL NORTE,Silkworms,Farmer only,Female,2
+ZAMBOANGA DEL NORTE,Yaks,Farmer only,Female,0
+SARANGANI,Asses,Farmer only,Female,0
+SARANGANI,Bees,Farmer only,Female,0
+SARANGANI,Buffaloes (Carabaos),Farmer only,Female,196
+SARANGANI,Camels/Llamas and alpacas,Farmer only,Female,0
+SARANGANI,Cattle,Farmer only,Female,329
+SARANGANI,Deer elk reindeer,Farmer only,Female,0
+SARANGANI,Fur-bearing animals such as foxes and minks,Farmer only,Female,1
+SARANGANI,Goats,Farmer only,Female,355
+SARANGANI,Horses,Farmer only,Female,149
+SARANGANI,Mules and hinnies,Farmer only,Female,1
+SARANGANI,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+SARANGANI,Other equines (e.g. zebras),Farmer only,Female,1
+SARANGANI,Other worms or insects,Farmer only,Female,0
+SARANGANI,Pigs or swine,Farmer only,Female,"1,212"
+SARANGANI,Rabbits and hares,Farmer only,Female,3
+SARANGANI,Sheep,Farmer only,Female,3
+SARANGANI,Silkworms,Farmer only,Female,0
+SARANGANI,Yaks,Farmer only,Female,0
+APAYAO,Buffaloes (Carabaos),Farmer only,Female,74
+APAYAO,Cattle,Farmer only,Female,18
+APAYAO,Deer elk reindeer,Farmer only,Female,1
+APAYAO,Goats,Farmer only,Female,16
+APAYAO,Horses,Farmer only,Female,0
+APAYAO,Other animals (e.g. ostriches emus elephants),Farmer only,Female,0
+APAYAO,Pigs or swine,Farmer only,Female,312
+APAYAO,Rabbits and hares,Farmer only,Female,1
+APAYAO,Sheep,Farmer only,Female,0
+ABRA,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"4,908"
+ABRA,Cattle,Farmers who are farm laborers and/or fishermen,Male,"4,874"
+ABRA,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,4
+ABRA,Goats,Farmers who are farm laborers and/or fishermen,Male,"3,451"
+ABRA,Horses,Farmers who are farm laborers and/or fishermen,Male,164
+ABRA,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"4,489"
+ABRA,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+ABRA,Sheep,Farmers who are farm laborers and/or fishermen,Male,3
+AGUSAN DEL SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,902"
+AGUSAN DEL SUR,Cattle,Farmers who are farm laborers and/or fishermen,Male,379
+AGUSAN DEL SUR,Dogs and cats,Farmers who are farm laborers and/or fishermen,Male,0
+AGUSAN DEL SUR,Goats,Farmers who are farm laborers and/or fishermen,Male,965
+AGUSAN DEL SUR,Horses,Farmers who are farm laborers and/or fishermen,Male,58
+AGUSAN DEL SUR,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Male,1
+AGUSAN DEL SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,2
+AGUSAN DEL SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"8,064"
+AGUSAN DEL SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,6
+AGUSAN DEL SUR,Sheep,Farmers who are farm laborers and/or fishermen,Male,2
+AGUSAN DEL SUR,Silkworms,Farmers who are farm laborers and/or fishermen,Male,1
+CAMARINES SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"9,882"
+CAMARINES SUR,Cattle,Farmers who are farm laborers and/or fishermen,Male,"5,056"
+CAMARINES SUR,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,0
+CAMARINES SUR,Goats,Farmers who are farm laborers and/or fishermen,Male,"2,382"
+CAMARINES SUR,Horses,Farmers who are farm laborers and/or fishermen,Male,235
+CAMARINES SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,3
+CAMARINES SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"11,931"
+CAMARINES SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+CAMARINES SUR,Sheep,Farmers who are farm laborers and/or fishermen,Male,5
+DAVAO ORIENTAL,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,953
+DAVAO ORIENTAL,Cattle,Farmers who are farm laborers and/or fishermen,Male,865
+DAVAO ORIENTAL,Dogs and cats,Farmers who are farm laborers and/or fishermen,Male,0
+DAVAO ORIENTAL,Goats,Farmers who are farm laborers and/or fishermen,Male,"1,843"
+DAVAO ORIENTAL,Horses,Farmers who are farm laborers and/or fishermen,Male,373
+DAVAO ORIENTAL,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"4,621"
+DAVAO ORIENTAL,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+DAVAO ORIENTAL,Sheep,Farmers who are farm laborers and/or fishermen,Male,5
+EASTERN SAMAR,Bees,Farmers who are farm laborers and/or fishermen,Male,0
+EASTERN SAMAR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,793
+EASTERN SAMAR,Cattle,Farmers who are farm laborers and/or fishermen,Male,139
+EASTERN SAMAR,Goats,Farmers who are farm laborers and/or fishermen,Male,57
+EASTERN SAMAR,Horses,Farmers who are farm laborers and/or fishermen,Male,0
+EASTERN SAMAR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,3
+EASTERN SAMAR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"1,735"
+EASTERN SAMAR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+EASTERN SAMAR,Sheep,Farmers who are farm laborers and/or fishermen,Male,2
+IFUGAO,Bees,Farmers who are farm laborers and/or fishermen,Male,2
+IFUGAO,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,635"
+IFUGAO,Cattle,Farmers who are farm laborers and/or fishermen,Male,697
+IFUGAO,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,0
+IFUGAO,Goats,Farmers who are farm laborers and/or fishermen,Male,518
+IFUGAO,Horses,Farmers who are farm laborers and/or fishermen,Male,5
+IFUGAO,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"5,402"
+IFUGAO,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,16
+IFUGAO,Sheep,Farmers who are farm laborers and/or fishermen,Male,3
+KALINGA,Bees,Farmers who are farm laborers and/or fishermen,Male,0
+KALINGA,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,565"
+KALINGA,Cattle,Farmers who are farm laborers and/or fishermen,Male,425
+KALINGA,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,3
+KALINGA,Goats,Farmers who are farm laborers and/or fishermen,Male,231
+KALINGA,Horses,Farmers who are farm laborers and/or fishermen,Male,123
+KALINGA,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"5,201"
+KALINGA,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,3
+KALINGA,Sheep,Farmers who are farm laborers and/or fishermen,Male,0
+MASBATE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"8,735"
+MASBATE,Cattle,Farmers who are farm laborers and/or fishermen,Male,"2,995"
+MASBATE,Goats,Farmers who are farm laborers and/or fishermen,Male,"3,220"
+MASBATE,Horses,Farmers who are farm laborers and/or fishermen,Male,"1,806"
+MASBATE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"11,535"
+MASBATE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+MASBATE,Sheep,Farmers who are farm laborers and/or fishermen,Male,1
+MOUNTAIN PROVINCE,Bees,Farmers who are farm laborers and/or fishermen,Male,0
+MOUNTAIN PROVINCE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,801
+MOUNTAIN PROVINCE,Cattle,Farmers who are farm laborers and/or fishermen,Male,292
+MOUNTAIN PROVINCE,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,1
+MOUNTAIN PROVINCE,Goats,Farmers who are farm laborers and/or fishermen,Male,119
+MOUNTAIN PROVINCE,Horses,Farmers who are farm laborers and/or fishermen,Male,17
+MOUNTAIN PROVINCE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"3,273"
+MOUNTAIN PROVINCE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+MOUNTAIN PROVINCE,Sheep,Farmers who are farm laborers and/or fishermen,Male,2
+MOUNTAIN PROVINCE,Silkworms,Farmers who are farm laborers and/or fishermen,Male,0
+COTABATO (NORTH COTABATO),Asses,Farmers who are farm laborers and/or fishermen,Male,24
+COTABATO (NORTH COTABATO),Bees,Farmers who are farm laborers and/or fishermen,Male,1
+COTABATO (NORTH COTABATO),Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"9,168"
+COTABATO (NORTH COTABATO),Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Male,23
+COTABATO (NORTH COTABATO),Cattle,Farmers who are farm laborers and/or fishermen,Male,"8,187"
+COTABATO (NORTH COTABATO),Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,9
+COTABATO (NORTH COTABATO),Dogs and cats,Farmers who are farm laborers and/or fishermen,Male,1
+COTABATO (NORTH COTABATO),Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Male,40
+COTABATO (NORTH COTABATO),Goats,Farmers who are farm laborers and/or fishermen,Male,"6,847"
+COTABATO (NORTH COTABATO),Horses,Farmers who are farm laborers and/or fishermen,Male,"2,157"
+COTABATO (NORTH COTABATO),Mules and hinnies,Farmers who are farm laborers and/or fishermen,Male,8
+COTABATO (NORTH COTABATO),Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,1
+COTABATO (NORTH COTABATO),Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Male,6
+COTABATO (NORTH COTABATO),Other worms or insects,Farmers who are farm laborers and/or fishermen,Male,0
+COTABATO (NORTH COTABATO),Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"9,660"
+COTABATO (NORTH COTABATO),Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,8
+COTABATO (NORTH COTABATO),Sheep,Farmers who are farm laborers and/or fishermen,Male,23
+COTABATO (NORTH COTABATO),Silkworms,Farmers who are farm laborers and/or fishermen,Male,0
+COTABATO (NORTH COTABATO),Yaks,Farmers who are farm laborers and/or fishermen,Male,2
+NORTHERN SAMAR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"2,726"
+NORTHERN SAMAR,Cattle,Farmers who are farm laborers and/or fishermen,Male,391
+NORTHERN SAMAR,Dogs and cats,Farmers who are farm laborers and/or fishermen,Male,1
+NORTHERN SAMAR,Goats,Farmers who are farm laborers and/or fishermen,Male,138
+NORTHERN SAMAR,Horses,Farmers who are farm laborers and/or fishermen,Male,34
+NORTHERN SAMAR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"6,694"
+NORTHERN SAMAR,Sheep,Farmers who are farm laborers and/or fishermen,Male,2
+ROMBLON,Asses,Farmers who are farm laborers and/or fishermen,Male,1
+ROMBLON,Bees,Farmers who are farm laborers and/or fishermen,Male,1
+ROMBLON,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,438
+ROMBLON,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Male,1
+ROMBLON,Cattle,Farmers who are farm laborers and/or fishermen,Male,"1,878"
+ROMBLON,Goats,Farmers who are farm laborers and/or fishermen,Male,"1,544"
+ROMBLON,Horses,Farmers who are farm laborers and/or fishermen,Male,18
+ROMBLON,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Male,1
+ROMBLON,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"3,846"
+ROMBLON,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+ROMBLON,Sheep,Farmers who are farm laborers and/or fishermen,Male,1
+ROMBLON,Yaks,Farmers who are farm laborers and/or fishermen,Male,1
+SAMAR (WESTERN SAMAR),Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,954
+SAMAR (WESTERN SAMAR),Cattle,Farmers who are farm laborers and/or fishermen,Male,96
+SAMAR (WESTERN SAMAR),Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,0
+SAMAR (WESTERN SAMAR),Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Male,0
+SAMAR (WESTERN SAMAR),Goats,Farmers who are farm laborers and/or fishermen,Male,172
+SAMAR (WESTERN SAMAR),Horses,Farmers who are farm laborers and/or fishermen,Male,1
+SAMAR (WESTERN SAMAR),Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"2,585"
+SAMAR (WESTERN SAMAR),Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+SAMAR (WESTERN SAMAR),Sheep,Farmers who are farm laborers and/or fishermen,Male,0
+SIQUIJOR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,111
+SIQUIJOR,Cattle,Farmers who are farm laborers and/or fishermen,Male,"3,243"
+SIQUIJOR,Goats,Farmers who are farm laborers and/or fishermen,Male,"1,866"
+SIQUIJOR,Horses,Farmers who are farm laborers and/or fishermen,Male,4
+SIQUIJOR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"2,514"
+SIQUIJOR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+SIQUIJOR,Sheep,Farmers who are farm laborers and/or fishermen,Male,1
+SULTAN KUDARAT,Asses,Farmers who are farm laborers and/or fishermen,Male,6
+SULTAN KUDARAT,Bees,Farmers who are farm laborers and/or fishermen,Male,3
+SULTAN KUDARAT,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"2,741"
+SULTAN KUDARAT,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Male,1
+SULTAN KUDARAT,Cattle,Farmers who are farm laborers and/or fishermen,Male,"2,206"
+SULTAN KUDARAT,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,0
+SULTAN KUDARAT,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Male,1
+SULTAN KUDARAT,Goats,Farmers who are farm laborers and/or fishermen,Male,"2,696"
+SULTAN KUDARAT,Horses,Farmers who are farm laborers and/or fishermen,Male,"2,075"
+SULTAN KUDARAT,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Male,2
+SULTAN KUDARAT,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,0
+SULTAN KUDARAT,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Male,10
+SULTAN KUDARAT,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"5,810"
+SULTAN KUDARAT,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,0
+SULTAN KUDARAT,Sheep,Farmers who are farm laborers and/or fishermen,Male,3
+SULTAN KUDARAT,Yaks,Farmers who are farm laborers and/or fishermen,Male,3
+SURIGAO DEL NORTE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,393"
+SURIGAO DEL NORTE,Cattle,Farmers who are farm laborers and/or fishermen,Male,160
+SURIGAO DEL NORTE,Goats,Farmers who are farm laborers and/or fishermen,Male,234
+SURIGAO DEL NORTE,Horses,Farmers who are farm laborers and/or fishermen,Male,30
+SURIGAO DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,25
+SURIGAO DEL NORTE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"3,701"
+SURIGAO DEL NORTE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+SURIGAO DEL NORTE,Sheep,Farmers who are farm laborers and/or fishermen,Male,4
+SURIGAO DEL NORTE,Silkworms,Farmers who are farm laborers and/or fishermen,Male,1
+SURIGAO DEL SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"2,245"
+SURIGAO DEL SUR,Cattle,Farmers who are farm laborers and/or fishermen,Male,172
+SURIGAO DEL SUR,Goats,Farmers who are farm laborers and/or fishermen,Male,528
+SURIGAO DEL SUR,Horses,Farmers who are farm laborers and/or fishermen,Male,16
+SURIGAO DEL SUR,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Male,2
+SURIGAO DEL SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,1
+SURIGAO DEL SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"5,501"
+SURIGAO DEL SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+SURIGAO DEL SUR,Sheep,Farmers who are farm laborers and/or fishermen,Male,2
+ZAMBOANGA DEL NORTE,Asses,Farmers who are farm laborers and/or fishermen,Male,13
+ZAMBOANGA DEL NORTE,Bees,Farmers who are farm laborers and/or fishermen,Male,3
+ZAMBOANGA DEL NORTE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"7,385"
+ZAMBOANGA DEL NORTE,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Male,3
+ZAMBOANGA DEL NORTE,Cattle,Farmers who are farm laborers and/or fishermen,Male,"5,062"
+ZAMBOANGA DEL NORTE,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,5
+ZAMBOANGA DEL NORTE,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Male,1
+ZAMBOANGA DEL NORTE,Goats,Farmers who are farm laborers and/or fishermen,Male,"2,771"
+ZAMBOANGA DEL NORTE,Horses,Farmers who are farm laborers and/or fishermen,Male,939
+ZAMBOANGA DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,1
+ZAMBOANGA DEL NORTE,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Male,3
+ZAMBOANGA DEL NORTE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"14,027"
+ZAMBOANGA DEL NORTE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,2
+ZAMBOANGA DEL NORTE,Sheep,Farmers who are farm laborers and/or fishermen,Male,1
+ZAMBOANGA DEL NORTE,Silkworms,Farmers who are farm laborers and/or fishermen,Male,0
+ZAMBOANGA DEL NORTE,Yaks,Farmers who are farm laborers and/or fishermen,Male,2
+SARANGANI,Asses,Farmers who are farm laborers and/or fishermen,Male,7
+SARANGANI,Bees,Farmers who are farm laborers and/or fishermen,Male,2
+SARANGANI,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,397"
+SARANGANI,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Male,7
+SARANGANI,Cattle,Farmers who are farm laborers and/or fishermen,Male,"1,431"
+SARANGANI,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,1
+SARANGANI,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Male,0
+SARANGANI,Goats,Farmers who are farm laborers and/or fishermen,Male,"1,583"
+SARANGANI,Horses,Farmers who are farm laborers and/or fishermen,Male,"1,437"
+SARANGANI,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Male,1
+SARANGANI,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,0
+SARANGANI,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Male,3
+SARANGANI,Other worms or insects,Farmers who are farm laborers and/or fishermen,Male,0
+SARANGANI,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"4,498"
+SARANGANI,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,2
+SARANGANI,Sheep,Farmers who are farm laborers and/or fishermen,Male,9
+SARANGANI,Silkworms,Farmers who are farm laborers and/or fishermen,Male,0
+SARANGANI,Yaks,Farmers who are farm laborers and/or fishermen,Male,2
+APAYAO,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Male,"1,775"
+APAYAO,Cattle,Farmers who are farm laborers and/or fishermen,Male,282
+APAYAO,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Male,3
+APAYAO,Goats,Farmers who are farm laborers and/or fishermen,Male,285
+APAYAO,Horses,Farmers who are farm laborers and/or fishermen,Male,14
+APAYAO,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Male,0
+APAYAO,Pigs or swine,Farmers who are farm laborers and/or fishermen,Male,"3,379"
+APAYAO,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Male,1
+APAYAO,Sheep,Farmers who are farm laborers and/or fishermen,Male,0
+ABRA,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,254
+ABRA,Cattle,Farmers who are farm laborers and/or fishermen,Female,273
+ABRA,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,1
+ABRA,Goats,Farmers who are farm laborers and/or fishermen,Female,241
+ABRA,Horses,Farmers who are farm laborers and/or fishermen,Female,9
+ABRA,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,841
+ABRA,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+ABRA,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+AGUSAN DEL SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,140
+AGUSAN DEL SUR,Cattle,Farmers who are farm laborers and/or fishermen,Female,20
+AGUSAN DEL SUR,Dogs and cats,Farmers who are farm laborers and/or fishermen,Female,0
+AGUSAN DEL SUR,Goats,Farmers who are farm laborers and/or fishermen,Female,139
+AGUSAN DEL SUR,Horses,Farmers who are farm laborers and/or fishermen,Female,4
+AGUSAN DEL SUR,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Female,0
+AGUSAN DEL SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+AGUSAN DEL SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,930
+AGUSAN DEL SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+AGUSAN DEL SUR,Sheep,Farmers who are farm laborers and/or fishermen,Female,1
+AGUSAN DEL SUR,Silkworms,Farmers who are farm laborers and/or fishermen,Female,0
+CAMARINES SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,739
+CAMARINES SUR,Cattle,Farmers who are farm laborers and/or fishermen,Female,349
+CAMARINES SUR,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+CAMARINES SUR,Goats,Farmers who are farm laborers and/or fishermen,Female,212
+CAMARINES SUR,Horses,Farmers who are farm laborers and/or fishermen,Female,15
+CAMARINES SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+CAMARINES SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"1,475"
+CAMARINES SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+CAMARINES SUR,Sheep,Farmers who are farm laborers and/or fishermen,Female,1
+DAVAO ORIENTAL,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,82
+DAVAO ORIENTAL,Cattle,Farmers who are farm laborers and/or fishermen,Female,106
+DAVAO ORIENTAL,Dogs and cats,Farmers who are farm laborers and/or fishermen,Female,0
+DAVAO ORIENTAL,Goats,Farmers who are farm laborers and/or fishermen,Female,197
+DAVAO ORIENTAL,Horses,Farmers who are farm laborers and/or fishermen,Female,18
+DAVAO ORIENTAL,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,410
+DAVAO ORIENTAL,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+DAVAO ORIENTAL,Sheep,Farmers who are farm laborers and/or fishermen,Female,1
+EASTERN SAMAR,Bees,Farmers who are farm laborers and/or fishermen,Female,1
+EASTERN SAMAR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,49
+EASTERN SAMAR,Cattle,Farmers who are farm laborers and/or fishermen,Female,11
+EASTERN SAMAR,Goats,Farmers who are farm laborers and/or fishermen,Female,3
+EASTERN SAMAR,Horses,Farmers who are farm laborers and/or fishermen,Female,0
+EASTERN SAMAR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+EASTERN SAMAR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,162
+EASTERN SAMAR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+EASTERN SAMAR,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+IFUGAO,Bees,Farmers who are farm laborers and/or fishermen,Female,0
+IFUGAO,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,418
+IFUGAO,Cattle,Farmers who are farm laborers and/or fishermen,Female,130
+IFUGAO,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+IFUGAO,Goats,Farmers who are farm laborers and/or fishermen,Female,191
+IFUGAO,Horses,Farmers who are farm laborers and/or fishermen,Female,1
+IFUGAO,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"2,879"
+IFUGAO,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,9
+IFUGAO,Sheep,Farmers who are farm laborers and/or fishermen,Female,1
+KALINGA,Bees,Farmers who are farm laborers and/or fishermen,Female,1
+KALINGA,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,154
+KALINGA,Cattle,Farmers who are farm laborers and/or fishermen,Female,36
+KALINGA,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+KALINGA,Goats,Farmers who are farm laborers and/or fishermen,Female,42
+KALINGA,Horses,Farmers who are farm laborers and/or fishermen,Female,8
+KALINGA,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"1,013"
+KALINGA,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+KALINGA,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+MASBATE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,551
+MASBATE,Cattle,Farmers who are farm laborers and/or fishermen,Female,243
+MASBATE,Goats,Farmers who are farm laborers and/or fishermen,Female,292
+MASBATE,Horses,Farmers who are farm laborers and/or fishermen,Female,120
+MASBATE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"1,211"
+MASBATE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+MASBATE,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+MOUNTAIN PROVINCE,Bees,Farmers who are farm laborers and/or fishermen,Female,0
+MOUNTAIN PROVINCE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,198
+MOUNTAIN PROVINCE,Cattle,Farmers who are farm laborers and/or fishermen,Female,84
+MOUNTAIN PROVINCE,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+MOUNTAIN PROVINCE,Goats,Farmers who are farm laborers and/or fishermen,Female,16
+MOUNTAIN PROVINCE,Horses,Farmers who are farm laborers and/or fishermen,Female,3
+MOUNTAIN PROVINCE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"1,406"
+MOUNTAIN PROVINCE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,1
+MOUNTAIN PROVINCE,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+MOUNTAIN PROVINCE,Silkworms,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Asses,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Bees,Farmers who are farm laborers and/or fishermen,Female,2
+COTABATO (NORTH COTABATO),Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,857
+COTABATO (NORTH COTABATO),Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Cattle,Farmers who are farm laborers and/or fishermen,Female,975
+COTABATO (NORTH COTABATO),Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Dogs and cats,Farmers who are farm laborers and/or fishermen,Female,0
+COTABATO (NORTH COTABATO),Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Female,5
+COTABATO (NORTH COTABATO),Goats,Farmers who are farm laborers and/or fishermen,Female,"1,205"
+COTABATO (NORTH COTABATO),Horses,Farmers who are farm laborers and/or fishermen,Female,139
+COTABATO (NORTH COTABATO),Mules and hinnies,Farmers who are farm laborers and/or fishermen,Female,0
+COTABATO (NORTH COTABATO),Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+COTABATO (NORTH COTABATO),Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Other worms or insects,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"2,063"
+COTABATO (NORTH COTABATO),Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,3
+COTABATO (NORTH COTABATO),Sheep,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Silkworms,Farmers who are farm laborers and/or fishermen,Female,1
+COTABATO (NORTH COTABATO),Yaks,Farmers who are farm laborers and/or fishermen,Female,1
+NORTHERN SAMAR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,145
+NORTHERN SAMAR,Cattle,Farmers who are farm laborers and/or fishermen,Female,30
+NORTHERN SAMAR,Dogs and cats,Farmers who are farm laborers and/or fishermen,Female,0
+NORTHERN SAMAR,Goats,Farmers who are farm laborers and/or fishermen,Female,17
+NORTHERN SAMAR,Horses,Farmers who are farm laborers and/or fishermen,Female,1
+NORTHERN SAMAR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,565
+NORTHERN SAMAR,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Asses,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Bees,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,44
+ROMBLON,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Cattle,Farmers who are farm laborers and/or fishermen,Female,250
+ROMBLON,Goats,Farmers who are farm laborers and/or fishermen,Female,251
+ROMBLON,Horses,Farmers who are farm laborers and/or fishermen,Female,1
+ROMBLON,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,688
+ROMBLON,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+ROMBLON,Yaks,Farmers who are farm laborers and/or fishermen,Female,0
+SAMAR (WESTERN SAMAR),Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,85
+SAMAR (WESTERN SAMAR),Cattle,Farmers who are farm laborers and/or fishermen,Female,3
+SAMAR (WESTERN SAMAR),Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+SAMAR (WESTERN SAMAR),Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Female,0
+SAMAR (WESTERN SAMAR),Goats,Farmers who are farm laborers and/or fishermen,Female,11
+SAMAR (WESTERN SAMAR),Horses,Farmers who are farm laborers and/or fishermen,Female,0
+SAMAR (WESTERN SAMAR),Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,149
+SAMAR (WESTERN SAMAR),Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SAMAR (WESTERN SAMAR),Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+SIQUIJOR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,17
+SIQUIJOR,Cattle,Farmers who are farm laborers and/or fishermen,Female,561
+SIQUIJOR,Goats,Farmers who are farm laborers and/or fishermen,Female,481
+SIQUIJOR,Horses,Farmers who are farm laborers and/or fishermen,Female,1
+SIQUIJOR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,634
+SIQUIJOR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SIQUIJOR,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Asses,Farmers who are farm laborers and/or fishermen,Female,3
+SULTAN KUDARAT,Bees,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,161
+SULTAN KUDARAT,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Cattle,Farmers who are farm laborers and/or fishermen,Female,140
+SULTAN KUDARAT,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Goats,Farmers who are farm laborers and/or fishermen,Female,270
+SULTAN KUDARAT,Horses,Farmers who are farm laborers and/or fishermen,Female,182
+SULTAN KUDARAT,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Female,1
+SULTAN KUDARAT,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,696
+SULTAN KUDARAT,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+SULTAN KUDARAT,Yaks,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL NORTE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,118
+SURIGAO DEL NORTE,Cattle,Farmers who are farm laborers and/or fishermen,Female,13
+SURIGAO DEL NORTE,Goats,Farmers who are farm laborers and/or fishermen,Female,33
+SURIGAO DEL NORTE,Horses,Farmers who are farm laborers and/or fishermen,Female,2
+SURIGAO DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,2
+SURIGAO DEL NORTE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,385
+SURIGAO DEL NORTE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL NORTE,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL NORTE,Silkworms,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL SUR,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,139
+SURIGAO DEL SUR,Cattle,Farmers who are farm laborers and/or fishermen,Female,14
+SURIGAO DEL SUR,Goats,Farmers who are farm laborers and/or fishermen,Female,30
+SURIGAO DEL SUR,Horses,Farmers who are farm laborers and/or fishermen,Female,2
+SURIGAO DEL SUR,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL SUR,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL SUR,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,445
+SURIGAO DEL SUR,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SURIGAO DEL SUR,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Asses,Farmers who are farm laborers and/or fishermen,Female,1
+ZAMBOANGA DEL NORTE,Bees,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,"1,554"
+ZAMBOANGA DEL NORTE,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Female,2
+ZAMBOANGA DEL NORTE,Cattle,Farmers who are farm laborers and/or fishermen,Female,"1,049"
+ZAMBOANGA DEL NORTE,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Goats,Farmers who are farm laborers and/or fishermen,Female,624
+ZAMBOANGA DEL NORTE,Horses,Farmers who are farm laborers and/or fishermen,Female,193
+ZAMBOANGA DEL NORTE,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,"3,687"
+ZAMBOANGA DEL NORTE,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Sheep,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Silkworms,Farmers who are farm laborers and/or fishermen,Female,0
+ZAMBOANGA DEL NORTE,Yaks,Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Asses,Farmers who are farm laborers and/or fishermen,Female,1
+SARANGANI,Bees,Farmers who are farm laborers and/or fishermen,Female,1
+SARANGANI,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,120
+SARANGANI,Camels/Llamas and alpacas,Farmers who are farm laborers and/or fishermen,Female,1
+SARANGANI,Cattle,Farmers who are farm laborers and/or fishermen,Female,226
+SARANGANI,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,1
+SARANGANI,Fur-bearing animals such as foxes and minks,Farmers who are farm laborers and/or fishermen,Female,2
+SARANGANI,Goats,Farmers who are farm laborers and/or fishermen,Female,193
+SARANGANI,Horses,Farmers who are farm laborers and/or fishermen,Female,123
+SARANGANI,Mules and hinnies,Farmers who are farm laborers and/or fishermen,Female,1
+SARANGANI,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Other equines (e.g. zebras),Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Other worms or insects,Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,621
+SARANGANI,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Sheep,Farmers who are farm laborers and/or fishermen,Female,4
+SARANGANI,Silkworms,Farmers who are farm laborers and/or fishermen,Female,0
+SARANGANI,Yaks,Farmers who are farm laborers and/or fishermen,Female,0
+APAYAO,Buffaloes (Carabaos),Farmers who are farm laborers and/or fishermen,Female,230
+APAYAO,Cattle,Farmers who are farm laborers and/or fishermen,Female,21
+APAYAO,Deer elk reindeer,Farmers who are farm laborers and/or fishermen,Female,0
+APAYAO,Goats,Farmers who are farm laborers and/or fishermen,Female,36
+APAYAO,Horses,Farmers who are farm laborers and/or fishermen,Female,0
+APAYAO,Other animals (e.g. ostriches emus elephants),Farmers who are farm laborers and/or fishermen,Female,1
+APAYAO,Pigs or swine,Farmers who are farm laborers and/or fishermen,Female,530
+APAYAO,Rabbits and hares,Farmers who are farm laborers and/or fishermen,Female,1
+APAYAO,Sheep,Farmers who are farm laborers and/or fishermen,Female,0

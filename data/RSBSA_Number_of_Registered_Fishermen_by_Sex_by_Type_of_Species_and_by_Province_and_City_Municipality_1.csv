@@ -1,0 +1,561 @@
+Province,Main_Purpose_of_Aquacultural_Activity,engagement,gender,count_registered_fishermen
+ABRA,Bangus/Milkfish,Aquaculture Only,Male,0
+ABRA,Tilapia,Aquaculture Only,Male,53
+ABRA,Prawn,Aquaculture Only,Male,0
+ABRA,Oyster,Aquaculture Only,Male,0
+ABRA,Mussel,Aquaculture Only,Male,0
+ABRA,Seaweed,Aquaculture Only,Male,0
+ABRA,Other species,Aquaculture Only,Male,2
+AGUSAN DEL SUR,Bangus/Milkfish,Aquaculture Only,Male,4
+AGUSAN DEL SUR,Tilapia,Aquaculture Only,Male,124
+AGUSAN DEL SUR,Prawn,Aquaculture Only,Male,4
+AGUSAN DEL SUR,Oyster,Aquaculture Only,Male,0
+AGUSAN DEL SUR,Mussel,Aquaculture Only,Male,0
+AGUSAN DEL SUR,Seaweed,Aquaculture Only,Male,0
+AGUSAN DEL SUR,Other species,Aquaculture Only,Male,12
+CAMARINES SUR,Bangus/Milkfish,Aquaculture Only,Male,320
+CAMARINES SUR,Tilapia,Aquaculture Only,Male,"1,184"
+CAMARINES SUR,Prawn,Aquaculture Only,Male,268
+CAMARINES SUR,Oyster,Aquaculture Only,Male,35
+CAMARINES SUR,Mussel,Aquaculture Only,Male,38
+CAMARINES SUR,Seaweed,Aquaculture Only,Male,"1,395"
+CAMARINES SUR,Other species,Aquaculture Only,Male,322
+DAVAO ORIENTAL,Bangus/Milkfish,Aquaculture Only,Male,155
+DAVAO ORIENTAL,Tilapia,Aquaculture Only,Male,105
+DAVAO ORIENTAL,Prawn,Aquaculture Only,Male,50
+DAVAO ORIENTAL,Oyster,Aquaculture Only,Male,10
+DAVAO ORIENTAL,Mussel,Aquaculture Only,Male,4
+DAVAO ORIENTAL,Seaweed,Aquaculture Only,Male,15
+DAVAO ORIENTAL,Other species,Aquaculture Only,Male,80
+EASTERN SAMAR,Bangus/Milkfish,Aquaculture Only,Male,48
+EASTERN SAMAR,Tilapia,Aquaculture Only,Male,25
+EASTERN SAMAR,Prawn,Aquaculture Only,Male,11
+EASTERN SAMAR,Oyster,Aquaculture Only,Male,52
+EASTERN SAMAR,Mussel,Aquaculture Only,Male,1
+EASTERN SAMAR,Seaweed,Aquaculture Only,Male,103
+EASTERN SAMAR,Other species,Aquaculture Only,Male,745
+IFUGAO,Bangus/Milkfish,Aquaculture Only,Male,0
+IFUGAO,Tilapia,Aquaculture Only,Male,136
+IFUGAO,Prawn,Aquaculture Only,Male,0
+IFUGAO,Oyster,Aquaculture Only,Male,0
+IFUGAO,Mussel,Aquaculture Only,Male,0
+IFUGAO,Seaweed,Aquaculture Only,Male,0
+IFUGAO,Other species,Aquaculture Only,Male,1
+KALINGA,Bangus/Milkfish,Aquaculture Only,Male,0
+KALINGA,Tilapia,Aquaculture Only,Male,3
+KALINGA,Prawn,Aquaculture Only,Male,0
+KALINGA,Oyster,Aquaculture Only,Male,0
+KALINGA,Mussel,Aquaculture Only,Male,0
+KALINGA,Seaweed,Aquaculture Only,Male,0
+KALINGA,Other species,Aquaculture Only,Male,0
+MASBATE,Bangus/Milkfish,Aquaculture Only,Male,531
+MASBATE,Tilapia,Aquaculture Only,Male,456
+MASBATE,Prawn,Aquaculture Only,Male,545
+MASBATE,Oyster,Aquaculture Only,Male,139
+MASBATE,Mussel,Aquaculture Only,Male,6
+MASBATE,Seaweed,Aquaculture Only,Male,"1,150"
+MASBATE,Other species,Aquaculture Only,Male,481
+MOUNTAIN PROVINCE,Bangus/Milkfish,Aquaculture Only,Male,0
+MOUNTAIN PROVINCE,Tilapia,Aquaculture Only,Male,25
+MOUNTAIN PROVINCE,Prawn,Aquaculture Only,Male,0
+MOUNTAIN PROVINCE,Oyster,Aquaculture Only,Male,0
+MOUNTAIN PROVINCE,Mussel,Aquaculture Only,Male,0
+MOUNTAIN PROVINCE,Seaweed,Aquaculture Only,Male,0
+MOUNTAIN PROVINCE,Other species,Aquaculture Only,Male,2
+COTABATO (NORTH COTABATO),Bangus/Milkfish,Aquaculture Only,Male,75
+COTABATO (NORTH COTABATO),Tilapia,Aquaculture Only,Male,432
+COTABATO (NORTH COTABATO),Prawn,Aquaculture Only,Male,20
+COTABATO (NORTH COTABATO),Oyster,Aquaculture Only,Male,6
+COTABATO (NORTH COTABATO),Mussel,Aquaculture Only,Male,9
+COTABATO (NORTH COTABATO),Seaweed,Aquaculture Only,Male,8
+COTABATO (NORTH COTABATO),Other species,Aquaculture Only,Male,211
+NORTHERN SAMAR,Bangus/Milkfish,Aquaculture Only,Male,135
+NORTHERN SAMAR,Tilapia,Aquaculture Only,Male,85
+NORTHERN SAMAR,Prawn,Aquaculture Only,Male,75
+NORTHERN SAMAR,Oyster,Aquaculture Only,Male,9
+NORTHERN SAMAR,Mussel,Aquaculture Only,Male,14
+NORTHERN SAMAR,Seaweed,Aquaculture Only,Male,30
+NORTHERN SAMAR,Other species,Aquaculture Only,Male,68
+ROMBLON,Bangus/Milkfish,Aquaculture Only,Male,22
+ROMBLON,Tilapia,Aquaculture Only,Male,33
+ROMBLON,Prawn,Aquaculture Only,Male,11
+ROMBLON,Oyster,Aquaculture Only,Male,3
+ROMBLON,Mussel,Aquaculture Only,Male,0
+ROMBLON,Seaweed,Aquaculture Only,Male,209
+ROMBLON,Other species,Aquaculture Only,Male,9
+SAMAR (WESTERN SAMAR),Bangus/Milkfish,Aquaculture Only,Male,335
+SAMAR (WESTERN SAMAR),Tilapia,Aquaculture Only,Male,229
+SAMAR (WESTERN SAMAR),Prawn,Aquaculture Only,Male,226
+SAMAR (WESTERN SAMAR),Oyster,Aquaculture Only,Male,97
+SAMAR (WESTERN SAMAR),Mussel,Aquaculture Only,Male,159
+SAMAR (WESTERN SAMAR),Seaweed,Aquaculture Only,Male,85
+SAMAR (WESTERN SAMAR),Other species,Aquaculture Only,Male,344
+SIQUIJOR,Bangus/Milkfish,Aquaculture Only,Male,3
+SIQUIJOR,Tilapia,Aquaculture Only,Male,3
+SIQUIJOR,Prawn,Aquaculture Only,Male,0
+SIQUIJOR,Oyster,Aquaculture Only,Male,0
+SIQUIJOR,Mussel,Aquaculture Only,Male,0
+SIQUIJOR,Seaweed,Aquaculture Only,Male,11
+SIQUIJOR,Other species,Aquaculture Only,Male,1
+SULTAN KUDARAT,Bangus/Milkfish,Aquaculture Only,Male,479
+SULTAN KUDARAT,Tilapia,Aquaculture Only,Male,"3,605"
+SULTAN KUDARAT,Prawn,Aquaculture Only,Male,251
+SULTAN KUDARAT,Oyster,Aquaculture Only,Male,28
+SULTAN KUDARAT,Mussel,Aquaculture Only,Male,18
+SULTAN KUDARAT,Seaweed,Aquaculture Only,Male,123
+SULTAN KUDARAT,Other species,Aquaculture Only,Male,71
+SURIGAO DEL NORTE,Bangus/Milkfish,Aquaculture Only,Male,50
+SURIGAO DEL NORTE,Tilapia,Aquaculture Only,Male,19
+SURIGAO DEL NORTE,Prawn,Aquaculture Only,Male,37
+SURIGAO DEL NORTE,Oyster,Aquaculture Only,Male,56
+SURIGAO DEL NORTE,Mussel,Aquaculture Only,Male,1
+SURIGAO DEL NORTE,Seaweed,Aquaculture Only,Male,30
+SURIGAO DEL NORTE,Other species,Aquaculture Only,Male,244
+SURIGAO DEL SUR,Bangus/Milkfish,Aquaculture Only,Male,330
+SURIGAO DEL SUR,Tilapia,Aquaculture Only,Male,135
+SURIGAO DEL SUR,Prawn,Aquaculture Only,Male,245
+SURIGAO DEL SUR,Oyster,Aquaculture Only,Male,24
+SURIGAO DEL SUR,Mussel,Aquaculture Only,Male,123
+SURIGAO DEL SUR,Seaweed,Aquaculture Only,Male,676
+SURIGAO DEL SUR,Other species,Aquaculture Only,Male,285
+ZAMBOANGA DEL NORTE,Bangus/Milkfish,Aquaculture Only,Male,252
+ZAMBOANGA DEL NORTE,Tilapia,Aquaculture Only,Male,226
+ZAMBOANGA DEL NORTE,Prawn,Aquaculture Only,Male,230
+ZAMBOANGA DEL NORTE,Oyster,Aquaculture Only,Male,28
+ZAMBOANGA DEL NORTE,Mussel,Aquaculture Only,Male,15
+ZAMBOANGA DEL NORTE,Seaweed,Aquaculture Only,Male,397
+ZAMBOANGA DEL NORTE,Other species,Aquaculture Only,Male,94
+SARANGANI,Bangus/Milkfish,Aquaculture Only,Male,170
+SARANGANI,Tilapia,Aquaculture Only,Male,66
+SARANGANI,Prawn,Aquaculture Only,Male,96
+SARANGANI,Oyster,Aquaculture Only,Male,1
+SARANGANI,Mussel,Aquaculture Only,Male,2
+SARANGANI,Seaweed,Aquaculture Only,Male,16
+SARANGANI,Other species,Aquaculture Only,Male,19
+APAYAO,Bangus/Milkfish,Aquaculture Only,Male,0
+APAYAO,Tilapia,Aquaculture Only,Male,11
+APAYAO,Prawn,Aquaculture Only,Male,0
+APAYAO,Oyster,Aquaculture Only,Male,0
+APAYAO,Mussel,Aquaculture Only,Male,0
+APAYAO,Seaweed,Aquaculture Only,Male,0
+APAYAO,Other species,Aquaculture Only,Male,0
+ABRA,Bangus/Milkfish,Aquaculture Only,Female,0
+ABRA,Tilapia,Aquaculture Only,Female,9
+ABRA,Prawn,Aquaculture Only,Female,0
+ABRA,Oyster,Aquaculture Only,Female,0
+ABRA,Mussel,Aquaculture Only,Female,0
+ABRA,Seaweed,Aquaculture Only,Female,0
+ABRA,Other species,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Bangus/Milkfish,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Tilapia,Aquaculture Only,Female,16
+AGUSAN DEL SUR,Prawn,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Oyster,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Mussel,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Seaweed,Aquaculture Only,Female,0
+AGUSAN DEL SUR,Other species,Aquaculture Only,Female,3
+CAMARINES SUR,Bangus/Milkfish,Aquaculture Only,Female,15
+CAMARINES SUR,Tilapia,Aquaculture Only,Female,61
+CAMARINES SUR,Prawn,Aquaculture Only,Female,9
+CAMARINES SUR,Oyster,Aquaculture Only,Female,36
+CAMARINES SUR,Mussel,Aquaculture Only,Female,54
+CAMARINES SUR,Seaweed,Aquaculture Only,Female,214
+CAMARINES SUR,Other species,Aquaculture Only,Female,25
+DAVAO ORIENTAL,Bangus/Milkfish,Aquaculture Only,Female,7
+DAVAO ORIENTAL,Tilapia,Aquaculture Only,Female,10
+DAVAO ORIENTAL,Prawn,Aquaculture Only,Female,3
+DAVAO ORIENTAL,Oyster,Aquaculture Only,Female,4
+DAVAO ORIENTAL,Mussel,Aquaculture Only,Female,0
+DAVAO ORIENTAL,Seaweed,Aquaculture Only,Female,1
+DAVAO ORIENTAL,Other species,Aquaculture Only,Female,10
+EASTERN SAMAR,Bangus/Milkfish,Aquaculture Only,Female,3
+EASTERN SAMAR,Tilapia,Aquaculture Only,Female,4
+EASTERN SAMAR,Prawn,Aquaculture Only,Female,0
+EASTERN SAMAR,Oyster,Aquaculture Only,Female,6
+EASTERN SAMAR,Mussel,Aquaculture Only,Female,0
+EASTERN SAMAR,Seaweed,Aquaculture Only,Female,16
+EASTERN SAMAR,Other species,Aquaculture Only,Female,23
+IFUGAO,Bangus/Milkfish,Aquaculture Only,Female,0
+IFUGAO,Tilapia,Aquaculture Only,Female,13
+IFUGAO,Prawn,Aquaculture Only,Female,0
+IFUGAO,Oyster,Aquaculture Only,Female,0
+IFUGAO,Mussel,Aquaculture Only,Female,0
+IFUGAO,Seaweed,Aquaculture Only,Female,0
+IFUGAO,Other species,Aquaculture Only,Female,0
+KALINGA,Bangus/Milkfish,Aquaculture Only,Female,0
+KALINGA,Tilapia,Aquaculture Only,Female,2
+KALINGA,Prawn,Aquaculture Only,Female,0
+KALINGA,Oyster,Aquaculture Only,Female,0
+KALINGA,Mussel,Aquaculture Only,Female,0
+KALINGA,Seaweed,Aquaculture Only,Female,0
+KALINGA,Other species,Aquaculture Only,Female,0
+MASBATE,Bangus/Milkfish,Aquaculture Only,Female,25
+MASBATE,Tilapia,Aquaculture Only,Female,24
+MASBATE,Prawn,Aquaculture Only,Female,34
+MASBATE,Oyster,Aquaculture Only,Female,24
+MASBATE,Mussel,Aquaculture Only,Female,0
+MASBATE,Seaweed,Aquaculture Only,Female,132
+MASBATE,Other species,Aquaculture Only,Female,17
+MOUNTAIN PROVINCE,Bangus/Milkfish,Aquaculture Only,Female,0
+MOUNTAIN PROVINCE,Tilapia,Aquaculture Only,Female,1
+MOUNTAIN PROVINCE,Prawn,Aquaculture Only,Female,0
+MOUNTAIN PROVINCE,Oyster,Aquaculture Only,Female,0
+MOUNTAIN PROVINCE,Mussel,Aquaculture Only,Female,0
+MOUNTAIN PROVINCE,Seaweed,Aquaculture Only,Female,0
+MOUNTAIN PROVINCE,Other species,Aquaculture Only,Female,0
+COTABATO (NORTH COTABATO),Bangus/Milkfish,Aquaculture Only,Female,2
+COTABATO (NORTH COTABATO),Tilapia,Aquaculture Only,Female,162
+COTABATO (NORTH COTABATO),Prawn,Aquaculture Only,Female,11
+COTABATO (NORTH COTABATO),Oyster,Aquaculture Only,Female,0
+COTABATO (NORTH COTABATO),Mussel,Aquaculture Only,Female,1
+COTABATO (NORTH COTABATO),Seaweed,Aquaculture Only,Female,0
+COTABATO (NORTH COTABATO),Other species,Aquaculture Only,Female,30
+NORTHERN SAMAR,Bangus/Milkfish,Aquaculture Only,Female,4
+NORTHERN SAMAR,Tilapia,Aquaculture Only,Female,2
+NORTHERN SAMAR,Prawn,Aquaculture Only,Female,1
+NORTHERN SAMAR,Oyster,Aquaculture Only,Female,1
+NORTHERN SAMAR,Mussel,Aquaculture Only,Female,1
+NORTHERN SAMAR,Seaweed,Aquaculture Only,Female,6
+NORTHERN SAMAR,Other species,Aquaculture Only,Female,5
+ROMBLON,Bangus/Milkfish,Aquaculture Only,Female,3
+ROMBLON,Tilapia,Aquaculture Only,Female,8
+ROMBLON,Prawn,Aquaculture Only,Female,3
+ROMBLON,Oyster,Aquaculture Only,Female,0
+ROMBLON,Mussel,Aquaculture Only,Female,0
+ROMBLON,Seaweed,Aquaculture Only,Female,50
+ROMBLON,Other species,Aquaculture Only,Female,0
+SAMAR (WESTERN SAMAR),Bangus/Milkfish,Aquaculture Only,Female,9
+SAMAR (WESTERN SAMAR),Tilapia,Aquaculture Only,Female,14
+SAMAR (WESTERN SAMAR),Prawn,Aquaculture Only,Female,10
+SAMAR (WESTERN SAMAR),Oyster,Aquaculture Only,Female,12
+SAMAR (WESTERN SAMAR),Mussel,Aquaculture Only,Female,4
+SAMAR (WESTERN SAMAR),Seaweed,Aquaculture Only,Female,9
+SAMAR (WESTERN SAMAR),Other species,Aquaculture Only,Female,5
+SIQUIJOR,Bangus/Milkfish,Aquaculture Only,Female,0
+SIQUIJOR,Tilapia,Aquaculture Only,Female,0
+SIQUIJOR,Prawn,Aquaculture Only,Female,0
+SIQUIJOR,Oyster,Aquaculture Only,Female,0
+SIQUIJOR,Mussel,Aquaculture Only,Female,0
+SIQUIJOR,Seaweed,Aquaculture Only,Female,0
+SIQUIJOR,Other species,Aquaculture Only,Female,0
+SULTAN KUDARAT,Bangus/Milkfish,Aquaculture Only,Female,65
+SULTAN KUDARAT,Tilapia,Aquaculture Only,Female,164
+SULTAN KUDARAT,Prawn,Aquaculture Only,Female,191
+SULTAN KUDARAT,Oyster,Aquaculture Only,Female,2
+SULTAN KUDARAT,Mussel,Aquaculture Only,Female,4
+SULTAN KUDARAT,Seaweed,Aquaculture Only,Female,192
+SULTAN KUDARAT,Other species,Aquaculture Only,Female,17
+SURIGAO DEL NORTE,Bangus/Milkfish,Aquaculture Only,Female,4
+SURIGAO DEL NORTE,Tilapia,Aquaculture Only,Female,1
+SURIGAO DEL NORTE,Prawn,Aquaculture Only,Female,2
+SURIGAO DEL NORTE,Oyster,Aquaculture Only,Female,0
+SURIGAO DEL NORTE,Mussel,Aquaculture Only,Female,0
+SURIGAO DEL NORTE,Seaweed,Aquaculture Only,Female,2
+SURIGAO DEL NORTE,Other species,Aquaculture Only,Female,3
+SURIGAO DEL SUR,Bangus/Milkfish,Aquaculture Only,Female,26
+SURIGAO DEL SUR,Tilapia,Aquaculture Only,Female,19
+SURIGAO DEL SUR,Prawn,Aquaculture Only,Female,20
+SURIGAO DEL SUR,Oyster,Aquaculture Only,Female,3
+SURIGAO DEL SUR,Mussel,Aquaculture Only,Female,23
+SURIGAO DEL SUR,Seaweed,Aquaculture Only,Female,71
+SURIGAO DEL SUR,Other species,Aquaculture Only,Female,18
+ZAMBOANGA DEL NORTE,Bangus/Milkfish,Aquaculture Only,Female,17
+ZAMBOANGA DEL NORTE,Tilapia,Aquaculture Only,Female,12
+ZAMBOANGA DEL NORTE,Prawn,Aquaculture Only,Female,18
+ZAMBOANGA DEL NORTE,Oyster,Aquaculture Only,Female,14
+ZAMBOANGA DEL NORTE,Mussel,Aquaculture Only,Female,9
+ZAMBOANGA DEL NORTE,Seaweed,Aquaculture Only,Female,57
+ZAMBOANGA DEL NORTE,Other species,Aquaculture Only,Female,11
+SARANGANI,Bangus/Milkfish,Aquaculture Only,Female,24
+SARANGANI,Tilapia,Aquaculture Only,Female,3
+SARANGANI,Prawn,Aquaculture Only,Female,3
+SARANGANI,Oyster,Aquaculture Only,Female,0
+SARANGANI,Mussel,Aquaculture Only,Female,0
+SARANGANI,Seaweed,Aquaculture Only,Female,3
+SARANGANI,Other species,Aquaculture Only,Female,3
+APAYAO,Bangus/Milkfish,Aquaculture Only,Female,0
+APAYAO,Tilapia,Aquaculture Only,Female,0
+APAYAO,Prawn,Aquaculture Only,Female,0
+APAYAO,Oyster,Aquaculture Only,Female,0
+APAYAO,Mussel,Aquaculture Only,Female,0
+APAYAO,Seaweed,Aquaculture Only,Female,0
+APAYAO,Other species,Aquaculture Only,Female,0
+ABRA,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,0
+ABRA,Tilapia,Aquaculture but are also farmers and farm workers,Male,"1,148"
+ABRA,Prawn,Aquaculture but are also farmers and farm workers,Male,0
+ABRA,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+ABRA,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+ABRA,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+ABRA,Other species,Aquaculture but are also farmers and farm workers,Male,28
+AGUSAN DEL SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,7
+AGUSAN DEL SUR,Tilapia,Aquaculture but are also farmers and farm workers,Male,742
+AGUSAN DEL SUR,Prawn,Aquaculture but are also farmers and farm workers,Male,4
+AGUSAN DEL SUR,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+AGUSAN DEL SUR,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+AGUSAN DEL SUR,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+AGUSAN DEL SUR,Other species,Aquaculture but are also farmers and farm workers,Male,152
+CAMARINES SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,160
+CAMARINES SUR,Tilapia,Aquaculture but are also farmers and farm workers,Male,"1,687"
+CAMARINES SUR,Prawn,Aquaculture but are also farmers and farm workers,Male,135
+CAMARINES SUR,Oyster,Aquaculture but are also farmers and farm workers,Male,60
+CAMARINES SUR,Mussel,Aquaculture but are also farmers and farm workers,Male,19
+CAMARINES SUR,Seaweed,Aquaculture but are also farmers and farm workers,Male,888
+CAMARINES SUR,Other species,Aquaculture but are also farmers and farm workers,Male,411
+DAVAO ORIENTAL,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,82
+DAVAO ORIENTAL,Tilapia,Aquaculture but are also farmers and farm workers,Male,375
+DAVAO ORIENTAL,Prawn,Aquaculture but are also farmers and farm workers,Male,25
+DAVAO ORIENTAL,Oyster,Aquaculture but are also farmers and farm workers,Male,2
+DAVAO ORIENTAL,Mussel,Aquaculture but are also farmers and farm workers,Male,4
+DAVAO ORIENTAL,Seaweed,Aquaculture but are also farmers and farm workers,Male,6
+DAVAO ORIENTAL,Other species,Aquaculture but are also farmers and farm workers,Male,65
+EASTERN SAMAR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,35
+EASTERN SAMAR,Tilapia,Aquaculture but are also farmers and farm workers,Male,37
+EASTERN SAMAR,Prawn,Aquaculture but are also farmers and farm workers,Male,32
+EASTERN SAMAR,Oyster,Aquaculture but are also farmers and farm workers,Male,19
+EASTERN SAMAR,Mussel,Aquaculture but are also farmers and farm workers,Male,13
+EASTERN SAMAR,Seaweed,Aquaculture but are also farmers and farm workers,Male,40
+EASTERN SAMAR,Other species,Aquaculture but are also farmers and farm workers,Male,107
+IFUGAO,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,0
+IFUGAO,Tilapia,Aquaculture but are also farmers and farm workers,Male,883
+IFUGAO,Prawn,Aquaculture but are also farmers and farm workers,Male,10
+IFUGAO,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+IFUGAO,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+IFUGAO,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+IFUGAO,Other species,Aquaculture but are also farmers and farm workers,Male,10
+KALINGA,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,0
+KALINGA,Tilapia,Aquaculture but are also farmers and farm workers,Male,499
+KALINGA,Prawn,Aquaculture but are also farmers and farm workers,Male,1
+KALINGA,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+KALINGA,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+KALINGA,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+KALINGA,Other species,Aquaculture but are also farmers and farm workers,Male,10
+MASBATE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,273
+MASBATE,Tilapia,Aquaculture but are also farmers and farm workers,Male,281
+MASBATE,Prawn,Aquaculture but are also farmers and farm workers,Male,289
+MASBATE,Oyster,Aquaculture but are also farmers and farm workers,Male,85
+MASBATE,Mussel,Aquaculture but are also farmers and farm workers,Male,49
+MASBATE,Seaweed,Aquaculture but are also farmers and farm workers,Male,83
+MASBATE,Other species,Aquaculture but are also farmers and farm workers,Male,180
+MOUNTAIN PROVINCE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,0
+MOUNTAIN PROVINCE,Tilapia,Aquaculture but are also farmers and farm workers,Male,590
+MOUNTAIN PROVINCE,Prawn,Aquaculture but are also farmers and farm workers,Male,0
+MOUNTAIN PROVINCE,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+MOUNTAIN PROVINCE,Mussel,Aquaculture but are also farmers and farm workers,Male,1
+MOUNTAIN PROVINCE,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+MOUNTAIN PROVINCE,Other species,Aquaculture but are also farmers and farm workers,Male,41
+COTABATO (NORTH COTABATO),Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,21
+COTABATO (NORTH COTABATO),Tilapia,Aquaculture but are also farmers and farm workers,Male,"4,109"
+COTABATO (NORTH COTABATO),Prawn,Aquaculture but are also farmers and farm workers,Male,53
+COTABATO (NORTH COTABATO),Oyster,Aquaculture but are also farmers and farm workers,Male,7
+COTABATO (NORTH COTABATO),Mussel,Aquaculture but are also farmers and farm workers,Male,27
+COTABATO (NORTH COTABATO),Seaweed,Aquaculture but are also farmers and farm workers,Male,6
+COTABATO (NORTH COTABATO),Other species,Aquaculture but are also farmers and farm workers,Male,865
+NORTHERN SAMAR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,65
+NORTHERN SAMAR,Tilapia,Aquaculture but are also farmers and farm workers,Male,149
+NORTHERN SAMAR,Prawn,Aquaculture but are also farmers and farm workers,Male,49
+NORTHERN SAMAR,Oyster,Aquaculture but are also farmers and farm workers,Male,20
+NORTHERN SAMAR,Mussel,Aquaculture but are also farmers and farm workers,Male,4
+NORTHERN SAMAR,Seaweed,Aquaculture but are also farmers and farm workers,Male,138
+NORTHERN SAMAR,Other species,Aquaculture but are also farmers and farm workers,Male,225
+ROMBLON,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,50
+ROMBLON,Tilapia,Aquaculture but are also farmers and farm workers,Male,104
+ROMBLON,Prawn,Aquaculture but are also farmers and farm workers,Male,15
+ROMBLON,Oyster,Aquaculture but are also farmers and farm workers,Male,4
+ROMBLON,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+ROMBLON,Seaweed,Aquaculture but are also farmers and farm workers,Male,51
+ROMBLON,Other species,Aquaculture but are also farmers and farm workers,Male,3
+SAMAR (WESTERN SAMAR),Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,113
+SAMAR (WESTERN SAMAR),Tilapia,Aquaculture but are also farmers and farm workers,Male,95
+SAMAR (WESTERN SAMAR),Prawn,Aquaculture but are also farmers and farm workers,Male,96
+SAMAR (WESTERN SAMAR),Oyster,Aquaculture but are also farmers and farm workers,Male,13
+SAMAR (WESTERN SAMAR),Mussel,Aquaculture but are also farmers and farm workers,Male,53
+SAMAR (WESTERN SAMAR),Seaweed,Aquaculture but are also farmers and farm workers,Male,44
+SAMAR (WESTERN SAMAR),Other species,Aquaculture but are also farmers and farm workers,Male,165
+SIQUIJOR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,4
+SIQUIJOR,Tilapia,Aquaculture but are also farmers and farm workers,Male,12
+SIQUIJOR,Prawn,Aquaculture but are also farmers and farm workers,Male,0
+SIQUIJOR,Oyster,Aquaculture but are also farmers and farm workers,Male,0
+SIQUIJOR,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+SIQUIJOR,Seaweed,Aquaculture but are also farmers and farm workers,Male,11
+SIQUIJOR,Other species,Aquaculture but are also farmers and farm workers,Male,2
+SULTAN KUDARAT,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,188
+SULTAN KUDARAT,Tilapia,Aquaculture but are also farmers and farm workers,Male,"1,499"
+SULTAN KUDARAT,Prawn,Aquaculture but are also farmers and farm workers,Male,138
+SULTAN KUDARAT,Oyster,Aquaculture but are also farmers and farm workers,Male,69
+SULTAN KUDARAT,Mussel,Aquaculture but are also farmers and farm workers,Male,71
+SULTAN KUDARAT,Seaweed,Aquaculture but are also farmers and farm workers,Male,26
+SULTAN KUDARAT,Other species,Aquaculture but are also farmers and farm workers,Male,139
+SURIGAO DEL NORTE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,108
+SURIGAO DEL NORTE,Tilapia,Aquaculture but are also farmers and farm workers,Male,84
+SURIGAO DEL NORTE,Prawn,Aquaculture but are also farmers and farm workers,Male,63
+SURIGAO DEL NORTE,Oyster,Aquaculture but are also farmers and farm workers,Male,9
+SURIGAO DEL NORTE,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+SURIGAO DEL NORTE,Seaweed,Aquaculture but are also farmers and farm workers,Male,37
+SURIGAO DEL NORTE,Other species,Aquaculture but are also farmers and farm workers,Male,115
+SURIGAO DEL SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,147
+SURIGAO DEL SUR,Tilapia,Aquaculture but are also farmers and farm workers,Male,169
+SURIGAO DEL SUR,Prawn,Aquaculture but are also farmers and farm workers,Male,109
+SURIGAO DEL SUR,Oyster,Aquaculture but are also farmers and farm workers,Male,14
+SURIGAO DEL SUR,Mussel,Aquaculture but are also farmers and farm workers,Male,14
+SURIGAO DEL SUR,Seaweed,Aquaculture but are also farmers and farm workers,Male,136
+SURIGAO DEL SUR,Other species,Aquaculture but are also farmers and farm workers,Male,90
+ZAMBOANGA DEL NORTE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,114
+ZAMBOANGA DEL NORTE,Tilapia,Aquaculture but are also farmers and farm workers,Male,401
+ZAMBOANGA DEL NORTE,Prawn,Aquaculture but are also farmers and farm workers,Male,305
+ZAMBOANGA DEL NORTE,Oyster,Aquaculture but are also farmers and farm workers,Male,13
+ZAMBOANGA DEL NORTE,Mussel,Aquaculture but are also farmers and farm workers,Male,40
+ZAMBOANGA DEL NORTE,Seaweed,Aquaculture but are also farmers and farm workers,Male,198
+ZAMBOANGA DEL NORTE,Other species,Aquaculture but are also farmers and farm workers,Male,109
+SARANGANI,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,55
+SARANGANI,Tilapia,Aquaculture but are also farmers and farm workers,Male,171
+SARANGANI,Prawn,Aquaculture but are also farmers and farm workers,Male,29
+SARANGANI,Oyster,Aquaculture but are also farmers and farm workers,Male,1
+SARANGANI,Mussel,Aquaculture but are also farmers and farm workers,Male,2
+SARANGANI,Seaweed,Aquaculture but are also farmers and farm workers,Male,1
+SARANGANI,Other species,Aquaculture but are also farmers and farm workers,Male,23
+APAYAO,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Male,1
+APAYAO,Tilapia,Aquaculture but are also farmers and farm workers,Male,693
+APAYAO,Prawn,Aquaculture but are also farmers and farm workers,Male,4
+APAYAO,Oyster,Aquaculture but are also farmers and farm workers,Male,1
+APAYAO,Mussel,Aquaculture but are also farmers and farm workers,Male,0
+APAYAO,Seaweed,Aquaculture but are also farmers and farm workers,Male,0
+APAYAO,Other species,Aquaculture but are also farmers and farm workers,Male,29
+ABRA,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+ABRA,Tilapia,Aquaculture but are also farmers and farm workers,Female,144
+ABRA,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+ABRA,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+ABRA,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+ABRA,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+ABRA,Other species,Aquaculture but are also farmers and farm workers,Female,1
+AGUSAN DEL SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,3
+AGUSAN DEL SUR,Tilapia,Aquaculture but are also farmers and farm workers,Female,69
+AGUSAN DEL SUR,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+AGUSAN DEL SUR,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+AGUSAN DEL SUR,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+AGUSAN DEL SUR,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+AGUSAN DEL SUR,Other species,Aquaculture but are also farmers and farm workers,Female,21
+CAMARINES SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,8
+CAMARINES SUR,Tilapia,Aquaculture but are also farmers and farm workers,Female,103
+CAMARINES SUR,Prawn,Aquaculture but are also farmers and farm workers,Female,8
+CAMARINES SUR,Oyster,Aquaculture but are also farmers and farm workers,Female,59
+CAMARINES SUR,Mussel,Aquaculture but are also farmers and farm workers,Female,9
+CAMARINES SUR,Seaweed,Aquaculture but are also farmers and farm workers,Female,166
+CAMARINES SUR,Other species,Aquaculture but are also farmers and farm workers,Female,23
+DAVAO ORIENTAL,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,10
+DAVAO ORIENTAL,Tilapia,Aquaculture but are also farmers and farm workers,Female,29
+DAVAO ORIENTAL,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+DAVAO ORIENTAL,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+DAVAO ORIENTAL,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+DAVAO ORIENTAL,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+DAVAO ORIENTAL,Other species,Aquaculture but are also farmers and farm workers,Female,3
+EASTERN SAMAR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,3
+EASTERN SAMAR,Tilapia,Aquaculture but are also farmers and farm workers,Female,4
+EASTERN SAMAR,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+EASTERN SAMAR,Oyster,Aquaculture but are also farmers and farm workers,Female,2
+EASTERN SAMAR,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+EASTERN SAMAR,Seaweed,Aquaculture but are also farmers and farm workers,Female,1
+EASTERN SAMAR,Other species,Aquaculture but are also farmers and farm workers,Female,8
+IFUGAO,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+IFUGAO,Tilapia,Aquaculture but are also farmers and farm workers,Female,143
+IFUGAO,Prawn,Aquaculture but are also farmers and farm workers,Female,8
+IFUGAO,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+IFUGAO,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+IFUGAO,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+IFUGAO,Other species,Aquaculture but are also farmers and farm workers,Female,2
+KALINGA,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+KALINGA,Tilapia,Aquaculture but are also farmers and farm workers,Female,44
+KALINGA,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+KALINGA,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+KALINGA,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+KALINGA,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+KALINGA,Other species,Aquaculture but are also farmers and farm workers,Female,0
+MASBATE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,20
+MASBATE,Tilapia,Aquaculture but are also farmers and farm workers,Female,21
+MASBATE,Prawn,Aquaculture but are also farmers and farm workers,Female,21
+MASBATE,Oyster,Aquaculture but are also farmers and farm workers,Female,13
+MASBATE,Mussel,Aquaculture but are also farmers and farm workers,Female,1
+MASBATE,Seaweed,Aquaculture but are also farmers and farm workers,Female,11
+MASBATE,Other species,Aquaculture but are also farmers and farm workers,Female,7
+MOUNTAIN PROVINCE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+MOUNTAIN PROVINCE,Tilapia,Aquaculture but are also farmers and farm workers,Female,80
+MOUNTAIN PROVINCE,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+MOUNTAIN PROVINCE,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+MOUNTAIN PROVINCE,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+MOUNTAIN PROVINCE,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+MOUNTAIN PROVINCE,Other species,Aquaculture but are also farmers and farm workers,Female,8
+COTABATO (NORTH COTABATO),Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,1
+COTABATO (NORTH COTABATO),Tilapia,Aquaculture but are also farmers and farm workers,Female,355
+COTABATO (NORTH COTABATO),Prawn,Aquaculture but are also farmers and farm workers,Female,1
+COTABATO (NORTH COTABATO),Oyster,Aquaculture but are also farmers and farm workers,Female,0
+COTABATO (NORTH COTABATO),Mussel,Aquaculture but are also farmers and farm workers,Female,4
+COTABATO (NORTH COTABATO),Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+COTABATO (NORTH COTABATO),Other species,Aquaculture but are also farmers and farm workers,Female,98
+NORTHERN SAMAR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,2
+NORTHERN SAMAR,Tilapia,Aquaculture but are also farmers and farm workers,Female,6
+NORTHERN SAMAR,Prawn,Aquaculture but are also farmers and farm workers,Female,1
+NORTHERN SAMAR,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+NORTHERN SAMAR,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+NORTHERN SAMAR,Seaweed,Aquaculture but are also farmers and farm workers,Female,15
+NORTHERN SAMAR,Other species,Aquaculture but are also farmers and farm workers,Female,96
+ROMBLON,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,9
+ROMBLON,Tilapia,Aquaculture but are also farmers and farm workers,Female,14
+ROMBLON,Prawn,Aquaculture but are also farmers and farm workers,Female,4
+ROMBLON,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+ROMBLON,Mussel,Aquaculture but are also farmers and farm workers,Female,1
+ROMBLON,Seaweed,Aquaculture but are also farmers and farm workers,Female,26
+ROMBLON,Other species,Aquaculture but are also farmers and farm workers,Female,0
+SAMAR (WESTERN SAMAR),Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,6
+SAMAR (WESTERN SAMAR),Tilapia,Aquaculture but are also farmers and farm workers,Female,7
+SAMAR (WESTERN SAMAR),Prawn,Aquaculture but are also farmers and farm workers,Female,5
+SAMAR (WESTERN SAMAR),Oyster,Aquaculture but are also farmers and farm workers,Female,0
+SAMAR (WESTERN SAMAR),Mussel,Aquaculture but are also farmers and farm workers,Female,1
+SAMAR (WESTERN SAMAR),Seaweed,Aquaculture but are also farmers and farm workers,Female,3
+SAMAR (WESTERN SAMAR),Other species,Aquaculture but are also farmers and farm workers,Female,6
+SIQUIJOR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+SIQUIJOR,Tilapia,Aquaculture but are also farmers and farm workers,Female,1
+SIQUIJOR,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+SIQUIJOR,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+SIQUIJOR,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+SIQUIJOR,Seaweed,Aquaculture but are also farmers and farm workers,Female,2
+SIQUIJOR,Other species,Aquaculture but are also farmers and farm workers,Female,1
+SULTAN KUDARAT,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,13
+SULTAN KUDARAT,Tilapia,Aquaculture but are also farmers and farm workers,Female,157
+SULTAN KUDARAT,Prawn,Aquaculture but are also farmers and farm workers,Female,5
+SULTAN KUDARAT,Oyster,Aquaculture but are also farmers and farm workers,Female,3
+SULTAN KUDARAT,Mussel,Aquaculture but are also farmers and farm workers,Female,4
+SULTAN KUDARAT,Seaweed,Aquaculture but are also farmers and farm workers,Female,2
+SULTAN KUDARAT,Other species,Aquaculture but are also farmers and farm workers,Female,17
+SURIGAO DEL NORTE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,7
+SURIGAO DEL NORTE,Tilapia,Aquaculture but are also farmers and farm workers,Female,4
+SURIGAO DEL NORTE,Prawn,Aquaculture but are also farmers and farm workers,Female,2
+SURIGAO DEL NORTE,Oyster,Aquaculture but are also farmers and farm workers,Female,1
+SURIGAO DEL NORTE,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+SURIGAO DEL NORTE,Seaweed,Aquaculture but are also farmers and farm workers,Female,4
+SURIGAO DEL NORTE,Other species,Aquaculture but are also farmers and farm workers,Female,4
+SURIGAO DEL SUR,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,11
+SURIGAO DEL SUR,Tilapia,Aquaculture but are also farmers and farm workers,Female,20
+SURIGAO DEL SUR,Prawn,Aquaculture but are also farmers and farm workers,Female,12
+SURIGAO DEL SUR,Oyster,Aquaculture but are also farmers and farm workers,Female,5
+SURIGAO DEL SUR,Mussel,Aquaculture but are also farmers and farm workers,Female,2
+SURIGAO DEL SUR,Seaweed,Aquaculture but are also farmers and farm workers,Female,10
+SURIGAO DEL SUR,Other species,Aquaculture but are also farmers and farm workers,Female,6
+ZAMBOANGA DEL NORTE,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,14
+ZAMBOANGA DEL NORTE,Tilapia,Aquaculture but are also farmers and farm workers,Female,28
+ZAMBOANGA DEL NORTE,Prawn,Aquaculture but are also farmers and farm workers,Female,18
+ZAMBOANGA DEL NORTE,Oyster,Aquaculture but are also farmers and farm workers,Female,9
+ZAMBOANGA DEL NORTE,Mussel,Aquaculture but are also farmers and farm workers,Female,11
+ZAMBOANGA DEL NORTE,Seaweed,Aquaculture but are also farmers and farm workers,Female,9
+ZAMBOANGA DEL NORTE,Other species,Aquaculture but are also farmers and farm workers,Female,24
+SARANGANI,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,7
+SARANGANI,Tilapia,Aquaculture but are also farmers and farm workers,Female,12
+SARANGANI,Prawn,Aquaculture but are also farmers and farm workers,Female,4
+SARANGANI,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+SARANGANI,Mussel,Aquaculture but are also farmers and farm workers,Female,0
+SARANGANI,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+SARANGANI,Other species,Aquaculture but are also farmers and farm workers,Female,1
+APAYAO,Bangus/Milkfish,Aquaculture but are also farmers and farm workers,Female,0
+APAYAO,Tilapia,Aquaculture but are also farmers and farm workers,Female,61
+APAYAO,Prawn,Aquaculture but are also farmers and farm workers,Female,0
+APAYAO,Oyster,Aquaculture but are also farmers and farm workers,Female,0
+APAYAO,Mussel,Aquaculture but are also farmers and farm workers,Female,1
+APAYAO,Seaweed,Aquaculture but are also farmers and farm workers,Female,0
+APAYAO,Other species,Aquaculture but are also farmers and farm workers,Female,2
